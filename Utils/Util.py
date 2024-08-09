@@ -1,6 +1,5 @@
 from Dicts.all_items import all_item_dict
 from Dicts.item_dict_temp import item_dict_template
-import json
 
 pattern = bytes([0xB0, 0xAD, 0x01, 0x00, 0x01, 0xFF, 0xFF, 0xFF])
 pattern_dlc = bytes([0xB0, 0xAD, 0x01, 0x00, 0x01])
@@ -87,21 +86,3 @@ def getOwnedAndNot(file_read, selected_slot):
     except Exception as e:
         result['worked'] = False
         return result
-
-
-def main():
-    global inventory, result, all_items, item_counter, item_dict_template
-
-    with open('/Users/kalebsmac/Downloads/ER0000.sl2', 'rb') as file:
-        save_file = file.read()
-
-        if(not isValidFile(save_file)):
-            print('Not valid file')
-            return
-
-        getOwnedAndNot(save_file, 1)
-
-        print(json.dumps(result['owned'], indent=4))
-
-if __name__ == '__main__':
-    main()
