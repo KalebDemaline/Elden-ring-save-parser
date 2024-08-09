@@ -1,12 +1,9 @@
 from Dicts.all_items import all_item_dict
 from Dicts.item_dict_temp import item_dict_template
-import json
 
 pattern = bytes([0xB0, 0xAD, 0x01, 0x00, 0x01, 0xFF, 0xFF, 0xFF])
 pattern_dlc = bytes([0xB0, 0xAD, 0x01, 0x00, 0x01])
 isDlcFile = False
-
-result = {'worked': False, 'owned': None, 'not-owned': None, 'counter': None}
 
 def isValidFile(file_read):
     if file_read[:4] != b'BND4':
@@ -78,30 +75,28 @@ def getOwnedAndNot(file_read, selected_slot):
         for id in id_list:
             if id in all_item_dict['armament']:
                 item = all_item_dict['armament'][id]
-                owned_items['armament'][item['type']].append(item['name'])
+                owned_items['armament'][item['category']].append(item['name'])
                 del all_item_dict['armament'][id]
+            elif id in all_item_dict['armor']:
+                item = all_item_dict['armor'][id]
+                owned_items['armor'][item['category']].append(item['name'])
+                del all_item_dict['armor'][id]
+            elif id in all_item_dict['ashesOfWar']:
+                item = all_item_dict['ashesOfWar'][id]
+                owned_items['ashesOfWar'][item['category']].append(item['name'])
+                del all_item_dict['ashesOfWar'][id]
+            elif id in all_item_dict['magic']:
+                item = all_item_dict['magic'][id]
+                owned_items['magic'][item['category']].append(item['name'])
+                del all_item_dict['magic'][id]
+            elif id in all_item_dict['spiritAshes']:
+                owned_items['spiritAshes'].append(all_item_dict['spiritAshes'][id]['name'])
+                del all_item_dict['spiritAshes'][id]
+            elif id in all_item_dict['talisman']:
+                owned_items['talisman'].append(all_item_dict['talisman'][id]['name'])
+                del all_item_dict['talisman'][id]
 
-        result['owned'] = owned_items
-        return result
+        return owned_items
 
     except Exception as e:
-        result['worked'] = False
-        return result
-
-
-def main():
-    global inventory, result, all_items, item_counter, item_dict_template
-
-    with open('/Users/kalebsmac/Downloads/ER0000.sl2', 'rb') as file:
-        save_file = file.read()
-
-        if(not isValidFile(save_file)):
-            print('Not valid file')
-            return
-
-        getOwnedAndNot(save_file, 1)
-
-        print(json.dumps(result['owned'], indent=4))
-
-if __name__ == '__main__':
-    main()
+        return ''
