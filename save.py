@@ -8,23 +8,34 @@ isDlcFile = False
 
 result = {'worked': False, 'owned': None, 'not-owned': None, 'counter': None}
 
+def isValidFile(file_read):
+    if file_read[:4] != b'BND4':
+        return False
+    return True
+
+
 def split(list_a, chunk_size):
     return [list_a[i:i + chunk_size] for i in range(0, len(list_a), chunk_size)]
+
 
 def getIdReversed(id):
     return ''.join([f'{byte:02X}' for byte in id[:4][::-1]])
 
+
 def decimalToHex(d, padding=2):
     return f'{d:0{padding}X}'
 
+
 def buffer_equal(buf1, buf2):
     return buf1 == buf2
+
 
 def subfinder(mylist, pattern):
     for i in range(len(mylist) - len(pattern) + 1):
         if mylist[i:i+len(pattern)] == pattern:
             return i
     return -1
+
 
 def getInventory(slot):
     global isDlcFile
@@ -35,6 +46,7 @@ def getInventory(slot):
     index1 = subfinder(slot[index:], bytes([0] * 50)) + index + 6
     return slot[index:index1]
 
+
 def getNames(file_read):
     names = []
     for offset in range(0x1901d0e, 0x19031ba + 1, 0x24c):
@@ -43,6 +55,7 @@ def getNames(file_read):
         names.append(name)
     return names
 
+
 def get_slot_ls(dat):
     slots = [dat[0x00000310:0x0028030f + 1], dat[0x00280320:0x050031f + 1],
              dat[0x500330:0x78032f + 1], dat[0x780340:0xa0033f + 1],
@@ -50,6 +63,7 @@ def get_slot_ls(dat):
              dat[0xf00370:0x118036f + 1], dat[0x1180380:0x140037f + 1],
              dat[0x1400390:0x168038f + 1], dat[0x16803a0:0x190039f + 1]]
     return slots
+
 
 def getOwnedAndNot(file_read, selected_slot):
     try:
@@ -74,14 +88,15 @@ def getOwnedAndNot(file_read, selected_slot):
         result['worked'] = False
         return result
 
+
 def main():
     global inventory, result, all_items, item_counter, item_dict_template
 
     with open('/Users/kalebsmac/Downloads/ER0000.sl2', 'rb') as file:
         save_file = file.read()
 
-        if save_file[:4] != b'BND4':
-            print("Error", "Insert a valid file")
+        if(isValidFile(save_file)):
+            print('Not valid file')
             return
 
         getOwnedAndNot(save_file, 1)
