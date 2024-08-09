@@ -3450,4 +3450,1595 @@ all_item_dict: Dict[str, Dict[str, item_properties]] = {
         "category": "Legs"
       }
     },
+    "ashesOfWar": {
+      "80002710": {
+        "name": "Ash of War: Lion's Claw",
+        "category": "Heavy"
+      },
+      "80002774": {
+        "name": "Ash of War: Impaling Thrust",
+        "category": "Keen"
+      },
+      "800027D8": {
+        "name": "Ash of War: Piercing Fang",
+        "category": "Keen"
+      },
+      "8000283C": {
+        "name": "Ash of War: Spinning Slash",
+        "category": "Keen"
+      },
+      "80002904": {
+        "name": "Ash of War: Charge Forth",
+        "category": "Quality"
+      },
+      "80002968": {
+        "name": "Ash of War: Stamp (Upward Cut)",
+        "category": "Heavy"
+      },
+      "800029CC": {
+        "name": "Ash of War: Stamp (Sweep)",
+        "category": "Heavy"
+      },
+      "80002A30": {
+        "name": "Ash of War: Blood Tax",
+        "category": "Blood"
+      },
+      "80002A94": {
+        "name": "Ash of War: Repeating Thrust",
+        "category": "Keen"
+      },
+      "80002AF8": {
+        "name": "Ash of War: Wild Strikes",
+        "category": "Heavy"
+      },
+      "80002B5C": {
+        "name": "Ash of War: Spinning Strikes",
+        "category": "Quality"
+      },
+      "80002BC0": {
+        "name": "Ash of War: Double Slash",
+        "category": "Keen"
+      },
+      "80002C24": {
+        "name": "Ash of War: Prelate's Charge",
+        "category": "Flame Art"
+      },
+      "80002C88": {
+        "name": "Ash of War: Unsheathe",
+        "category": "Keen"
+      },
+      "80002CEC": {
+        "name": "Ash of War: Square Off",
+        "category": "Quality"
+      },
+      "80002D50": {
+        "name": "Ash of War: Giant Hunt",
+        "category": "Quality"
+      },
+      "80002E18": {
+        "name": "Ash of War: Loretta's Slash",
+        "category": "Magic"
+      },
+      "80002E7C": {
+        "name": "Ash of War: Poison Moth Flight",
+        "category": "Poison"
+      },
+      "80002EE0": {
+        "name": "Ash of War: Spinning Weapon",
+        "category": "Magic"
+      },
+      "80002FA8": {
+        "name": "Ash of War: Storm Assault",
+        "category": "Quality"
+      },
+      "8000300C": {
+        "name": "Ash of War: Stormcaller",
+        "category": "Quality"
+      },
+      "80003070": {
+        "name": "Ash of War: Sword Dance",
+        "category": "Keen"
+      },
+      "80004E20": {
+        "name": "Ash of War: Glintblade Phalanx",
+        "category": "Magic"
+      },
+      "80004E84": {
+        "name": "Ash of War: Sacred Blade",
+        "category": "Sacred"
+      },
+      "80004EE8": {
+        "name": "Ash of War: Ice Spear",
+        "category": "Cold"
+      },
+      "80004F4C": {
+        "name": "Ash of War: Glintstone Pebble",
+        "category": "Magic"
+      },
+      "80004FB0": {
+        "name": "Ash of War: Bloody Slash",
+        "category": "Blood"
+      },
+      "80005014": {
+        "name": "Ash of War: Lifesteal Fist",
+        "category": "Occult"
+      },
+      "800050DC": {
+        "name": "Ash of War: Eruption",
+        "category": "Fire"
+      },
+      "80005140": {
+        "name": "Ash of War: Prayerful Strike",
+        "category": "Sacred"
+      },
+      "800051A4": {
+        "name": "Ash of War: Gravitas",
+        "category": "Magic"
+      },
+      "80005208": {
+        "name": "Ash of War: Storm Blade",
+        "category": "Quality"
+      },
+      "800052D0": {
+        "name": "Ash of War: Earthshaker",
+        "category": "Heavy"
+      },
+      "80005334": {
+        "name": "Ash of War: Golden Land",
+        "category": "Sacred"
+      },
+      "80005398": {
+        "name": "Ash of War: Flaming Strike",
+        "category": "Fire"
+      },
+      "80005460": {
+        "name": "Ash of War: Thunderbolt",
+        "category": "Lightning"
+      },
+      "800054C4": {
+        "name": "Ash of War: Lightning Slash",
+        "category": "Lightning"
+      },
+      "80005528": {
+        "name": "Ash of War: Carian Grandeur",
+        "category": "Magic"
+      },
+      "8000558C": {
+        "name": "Ash of War: Carian Greatsword",
+        "category": "Magic"
+      },
+      "800055F0": {
+        "name": "Ash of War: Vacuum Slice",
+        "category": "Quality"
+      },
+      "80005654": {
+        "name": "Ash of War: Black Flame Tornado",
+        "category": "Flame Art"
+      },
+      "800056B8": {
+        "name": "Ash of War: Sacred Ring of Light",
+        "category": "Sacred"
+      },
+      "80005780": {
+        "name": "Ash of War: Blood Blade",
+        "category": "Blood"
+      },
+      "800057E4": {
+        "name": "Ash of War: Phantom Slash",
+        "category": "Quality"
+      },
+      "80005848": {
+        "name": "Ash of War: Spectral Lance",
+        "category": "Occult"
+      },
+      "800058AC": {
+        "name": "Ash of War: Chilling Mist",
+        "category": "Cold"
+      },
+      "80005910": {
+        "name": "Ash of War: Poisonous Mist",
+        "category": "Poison"
+      },
+      "80007530": {
+        "name": "Ash of War: Shield Bash",
+        "category": "Standard"
+      },
+      "80007594": {
+        "name": "Ash of War: Barricade Shield",
+        "category": "Standard"
+      },
+      "800075F8": {
+        "name": "Ash of War: Parry",
+        "category": "Standard"
+      },
+      "80007724": {
+        "name": "Ash of War: Carian Retaliation",
+        "category": "Magic"
+      },
+      "80007788": {
+        "name": "Ash of War: Storm Wall",
+        "category": "Standard"
+      },
+      "800077EC": {
+        "name": "Ash of War: Golden Parry",
+        "category": "Sacred"
+      },
+      "80007850": {
+        "name": "Ash of War: Shield Crash",
+        "category": "Standard"
+      },
+      "800078B4": {
+        "name": "Ash of War: No Skill",
+        "category": "Standard"
+      },
+      "80007918": {
+        "name": "Ash of War: Thops's Barrier",
+        "category": "Magic"
+      },
+      "80009C40": {
+        "name": "Ash of War: Through and Through",
+        "category": "Standard"
+      },
+      "80009CA4": {
+        "name": "Ash of War: Barrage",
+        "category": "Standard"
+      },
+      "80009D08": {
+        "name": "Ash of War: Mighty Shot",
+        "category": "Standard"
+      },
+      "80009DD0": {
+        "name": "Ash of War: Enchanted Shot",
+        "category": "Standard"
+      },
+      "80009E34": {
+        "name": "Ash of War: Sky Shot",
+        "category": "Standard"
+      },
+      "80009E98": {
+        "name": "Ash of War: Rain of Arrows",
+        "category": "Standard"
+      },
+      "8000C3B4": {
+        "name": "Ash of War: Hoarfrost Stomp",
+        "category": "Cold"
+      },
+      "8000C418": {
+        "name": "Ash of War: Storm Stomp",
+        "category": "Quality"
+      },
+      "8000C47C": {
+        "name": "Ash of War: Kick",
+        "category": "Heavy"
+      },
+      "8000C4E0": {
+        "name": "Ash of War: Lightning Ram",
+        "category": "Lightning"
+      },
+      "8000C544": {
+        "name": "Ash of War: Flame of the Redmanes",
+        "category": "Fire"
+      },
+      "8000C5A8": {
+        "name": "Ash of War: Ground Slam",
+        "category": "Heavy"
+      },
+      "8000C60C": {
+        "name": "Ash of War: Golden Slam",
+        "category": "Sacred"
+      },
+      "8000C670": {
+        "name": "Ash of War: Waves of Darkness",
+        "category": "Magic"
+      },
+      "8000C6D4": {
+        "name": "Ash of War: Hoarah Loux's Earthshaker",
+        "category": "Heavy"
+      },
+      "8000EA60": {
+        "name": "Ash of War: Determination",
+        "category": "Quality"
+      },
+      "8000EAC4": {
+        "name": "Ash of War: Royal Knight's Resolve",
+        "category": "Quality"
+      },
+      "8000EB28": {
+        "name": "Ash of War: Assassin's Gambit",
+        "category": "Occult"
+      },
+      "8000EB8C": {
+        "name": "Ash of War: Golden Vow",
+        "category": "Sacred"
+      },
+      "8000EBF0": {
+        "name": "Ash of War: Sacred Order",
+        "category": "Sacred"
+      },
+      "8000EC54": {
+        "name": "Ash of War: Shared Order",
+        "category": "Sacred"
+      },
+      "8000ECB8": {
+        "name": "Ash of War: Seppuku",
+        "category": "Blood"
+      },
+      "8000ED1C": {
+        "name": "Ash of War: Cragblade",
+        "category": "Heavy"
+      },
+      "8000FDE8": {
+        "name": "Ash of War: Barbaric Roar",
+        "category": "Heavy"
+      },
+      "8000FE4C": {
+        "name": "Ash of War: War Cry",
+        "category": "Heavy"
+      },
+      "8000FEB0": {
+        "name": "Ash of War: Beast's Roar",
+        "category": "Keen"
+      },
+      "8000FF14": {
+        "name": "Ash of War: Troll's Roar",
+        "category": "Heavy"
+      },
+      "8000FF78": {
+        "name": "Ash of War: Braggart's Roar",
+        "category": "Heavy"
+      },
+      "80011170": {
+        "name": "Ash of War: Endure",
+        "category": "Heavy"
+      },
+      "800111D4": {
+        "name": "Ash of War: Vow of the Indomitable",
+        "category": "Sacred"
+      },
+      "80011238": {
+        "name": "Ash of War: Holy Ground",
+        "category": "Sacred"
+      },
+      "80013880": {
+        "name": "Ash of War: Quickstep",
+        "category": "Keen"
+      },
+      "800138E4": {
+        "name": "Ash of War: Bloodhound's Step",
+        "category": "Keen"
+      },
+      "80013948": {
+        "name": "Ash of War: Raptor of the Mists",
+        "category": "Keen"
+      },
+      "80014C08": {
+        "name": "Ash of War: White Shadow's Lure",
+        "category": "Occult"
+      }
+    },
+    "magic": {
+      "40000FA0": {
+        "name": "Glintstone Pebble",
+        "category": "Sorcery"
+      },
+      "40000FA1": {
+        "name": "Great Glintstone Shard",
+        "category": "Sorcery"
+      },
+      "40000FAA": {
+        "name": "Swift Glintstone Shard",
+        "category": "Sorcery"
+      },
+      "40000FB4": {
+        "name": "Glintstone Cometshard",
+        "category": "Sorcery"
+      },
+      "40000FB5": {
+        "name": "Comet",
+        "category": "Sorcery"
+      },
+      "40000FBE": {
+        "name": "Shard Spiral",
+        "category": "Sorcery"
+      },
+      "40000FC8": {
+        "name": "Glintstone Stars",
+        "category": "Sorcery"
+      },
+      "40000FD2": {
+        "name": "Star Shower",
+        "category": "Sorcery"
+      },
+      "40000FDC": {
+        "name": "Crystal Barrage",
+        "category": "Sorcery"
+      },
+      "40000FE6": {
+        "name": "Glintstone Arc",
+        "category": "Sorcery"
+      },
+      "40000FF0": {
+        "name": "Cannon of Haima",
+        "category": "Sorcery"
+      },
+      "40000FFA": {
+        "name": "Crystal Burst",
+        "category": "Sorcery"
+      },
+      "40001004": {
+        "name": "Shatter Earth",
+        "category": "Sorcery"
+      },
+      "4000100E": {
+        "name": "Rock Blaster",
+        "category": "Sorcery"
+      },
+      "40001018": {
+        "name": "Gavel of Haima",
+        "category": "Sorcery"
+      },
+      "40001022": {
+        "name": "Terra Magicus",
+        "category": "Sorcery"
+      },
+      "4000102C": {
+        "name": "Starlight",
+        "category": "Sorcery"
+      },
+      "40001068": {
+        "name": "Comet Azur",
+        "category": "Sorcery"
+      },
+      "40001072": {
+        "name": "Founding Rain of Stars",
+        "category": "Sorcery"
+      },
+      "4000107C": {
+        "name": "Stars of Ruin",
+        "category": "Sorcery"
+      },
+      "400010CC": {
+        "name": "Glintblade Phalanx",
+        "category": "Sorcery"
+      },
+      "400010CD": {
+        "name": "Carian Phalanx",
+        "category": "Sorcery"
+      },
+      "400010CE": {
+        "name": "Greatblade Phalanx",
+        "category": "Sorcery"
+      },
+      "40001108": {
+        "name": "Rennala's Full Moon",
+        "category": "Sorcery"
+      },
+      "40001109": {
+        "name": "Ranni's Dark Moon",
+        "category": "Sorcery"
+      },
+      "40001112": {
+        "name": "Magic Downpour",
+        "category": "Sorcery"
+      },
+      "4000111C": {
+        "name": "Loretta's Greatbow",
+        "category": "Sorcery"
+      },
+      "4000111D": {
+        "name": "Loretta's Mastery",
+        "category": "Sorcery"
+      },
+      "40001126": {
+        "name": "Magic Glintblade",
+        "category": "Sorcery"
+      },
+      "40001130": {
+        "name": "Glintstone Icecrag",
+        "category": "Sorcery"
+      },
+      "4000113A": {
+        "name": "Zamor Ice Storm",
+        "category": "Sorcery"
+      },
+      "40001144": {
+        "name": "Freezing Mist",
+        "category": "Sorcery"
+      },
+      "4000114E": {
+        "name": "Carian Greatsword",
+        "category": "Sorcery"
+      },
+      "4000114F": {
+        "name": "Adula's Moonblade",
+        "category": "Sorcery"
+      },
+      "40001158": {
+        "name": "Carian Slicer",
+        "category": "Sorcery"
+      },
+      "40001162": {
+        "name": "Carian Piercer",
+        "category": "Sorcery"
+      },
+      "4000116C": {
+        "name": "Scholar's Armament",
+        "category": "Sorcery"
+      },
+      "40001176": {
+        "name": "Scholar's Shield",
+        "category": "Sorcery"
+      },
+      "40001180": {
+        "name": "Lucidity",
+        "category": "Sorcery"
+      },
+      "4000118A": {
+        "name": "Frozen Armament",
+        "category": "Sorcery"
+      },
+      "40001194": {
+        "name": "Shattering Crystal",
+        "category": "Sorcery"
+      },
+      "4000119E": {
+        "name": "Crystal Release",
+        "category": "Sorcery"
+      },
+      "400011A8": {
+        "name": "Crystal Torrent",
+        "category": "Sorcery"
+      },
+      "400011F8": {
+        "name": "Ambush Shard",
+        "category": "Sorcery"
+      },
+      "40001202": {
+        "name": "Night Shard",
+        "category": "Sorcery"
+      },
+      "4000120C": {
+        "name": "Night Comet",
+        "category": "Sorcery"
+      },
+      "40001216": {
+        "name": "Thops's Barrier",
+        "category": "Sorcery"
+      },
+      "40001220": {
+        "name": "Carian Retaliation",
+        "category": "Sorcery"
+      },
+      "4000122A": {
+        "name": "Eternal Darkness",
+        "category": "Sorcery"
+      },
+      "40001234": {
+        "name": "Unseen Blade",
+        "category": "Sorcery"
+      },
+      "4000123E": {
+        "name": "Unseen Form",
+        "category": "Sorcery"
+      },
+      "4000125C": {
+        "name": "Meteorite",
+        "category": "Sorcery"
+      },
+      "4000125D": {
+        "name": "Meteorite of Astel",
+        "category": "Sorcery"
+      },
+      "40001266": {
+        "name": "Rock Sling",
+        "category": "Sorcery"
+      },
+      "40001270": {
+        "name": "Gravity Well",
+        "category": "Sorcery"
+      },
+      "40001271": {
+        "name": "Collapsing Stars",
+        "category": "Sorcery"
+      },
+      "400012C0": {
+        "name": "Magma Shot",
+        "category": "Sorcery"
+      },
+      "400012CA": {
+        "name": "Gelmir's Fury",
+        "category": "Sorcery"
+      },
+      "400012D4": {
+        "name": "Roiling Magma",
+        "category": "Sorcery"
+      },
+      "400012DE": {
+        "name": "Rykard's Rancor",
+        "category": "Sorcery"
+      },
+      "40001324": {
+        "name": "Briars of Sin",
+        "category": "Sorcery"
+      },
+      "4000132E": {
+        "name": "Briars of Punishment",
+        "category": "Sorcery"
+      },
+      "40001388": {
+        "name": "Rancorcall",
+        "category": "Sorcery"
+      },
+      "40001389": {
+        "name": "Ancient Death Rancor",
+        "category": "Sorcery"
+      },
+      "40001392": {
+        "name": "Explosive Ghostflame",
+        "category": "Sorcery"
+      },
+      "4000139C": {
+        "name": "Fia's Mist",
+        "category": "Sorcery"
+      },
+      "400013A6": {
+        "name": "Tibia's Summons",
+        "category": "Sorcery"
+      },
+      "400013B0": {
+        "name": "Death Lightning",
+        "category": "Incantation"
+      },
+      "400013EC": {
+        "name": "Oracle Bubbles",
+        "category": "Sorcery"
+      },
+      "400013F6": {
+        "name": "Great Oracular Bubble",
+        "category": "Sorcery"
+      },
+      "40001770": {
+        "name": "Catch Flame",
+        "category": "Incantation"
+      },
+      "40001771": {
+        "name": "O, Flame!",
+        "category": "Incantation"
+      },
+      "4000177A": {
+        "name": "Flame Sling",
+        "category": "Incantation"
+      },
+      "40001784": {
+        "name": "Flame, Fall Upon Them",
+        "category": "Incantation"
+      },
+      "4000178E": {
+        "name": "Whirl, O Flame!",
+        "category": "Incantation"
+      },
+      "40001798": {
+        "name": "Flame, Cleanse Me",
+        "category": "Incantation"
+      },
+      "400017A2": {
+        "name": "Flame, Grant Me Strength",
+        "category": "Incantation"
+      },
+      "400017AC": {
+        "name": "Flame, Protect Me",
+        "category": "Incantation"
+      },
+      "400017D4": {
+        "name": "Giantsflame Take Thee",
+        "category": "Incantation"
+      },
+      "400017DE": {
+        "name": "Flame of the Fell God",
+        "category": "Incantation"
+      },
+      "400017E8": {
+        "name": "Burn, O Flame!",
+        "category": "Incantation"
+      },
+      "40001842": {
+        "name": "Black Flame",
+        "category": "Incantation"
+      },
+      "4000184C": {
+        "name": "Surge, O Flame!",
+        "category": "Incantation"
+      },
+      "40001856": {
+        "name": "Scouring Black Flame",
+        "category": "Incantation"
+      },
+      "40001860": {
+        "name": "Black Flame Ritual",
+        "category": "Incantation"
+      },
+      "4000186A": {
+        "name": "Black Flame Blade",
+        "category": "Incantation"
+      },
+      "40001874": {
+        "name": "Black Flame's Protection",
+        "category": "Incantation"
+      },
+      "4000187E": {
+        "name": "Noble Presence",
+        "category": "Incantation"
+      },
+      "4000189C": {
+        "name": "Bloodflame Talons",
+        "category": "Incantation"
+      },
+      "400018A6": {
+        "name": "Bloodboon",
+        "category": "Incantation"
+      },
+      "400018B0": {
+        "name": "Bloodflame Blade",
+        "category": "Incantation"
+      },
+      "400018BA": {
+        "name": "Barrier of Gold",
+        "category": "Incantation"
+      },
+      "400018C4": {
+        "name": "Protection of the Erdtree",
+        "category": "Incantation"
+      },
+      "40001900": {
+        "name": "Rejection",
+        "category": "Incantation"
+      },
+      "4000190A": {
+        "name": "Wrath of Gold",
+        "category": "Incantation"
+      },
+      "40001914": {
+        "name": "Urgent Heal",
+        "category": "Incantation"
+      },
+      "40001915": {
+        "name": "Heal",
+        "category": "Incantation"
+      },
+      "40001916": {
+        "name": "Great Heal",
+        "category": "Incantation"
+      },
+      "40001917": {
+        "name": "Lord's Heal",
+        "category": "Incantation"
+      },
+      "40001918": {
+        "name": "Erdtree Heal",
+        "category": "Incantation"
+      },
+      "4000191E": {
+        "name": "Blessing's Boon",
+        "category": "Incantation"
+      },
+      "4000191F": {
+        "name": "Blessing of the Erdtree",
+        "category": "Incantation"
+      },
+      "40001928": {
+        "name": "Cure Poison",
+        "category": "Incantation"
+      },
+      "40001929": {
+        "name": "Lord's Aid",
+        "category": "Incantation"
+      },
+      "40001932": {
+        "name": "Flame Fortification",
+        "category": "Incantation"
+      },
+      "4000193C": {
+        "name": "Magic Fortification",
+        "category": "Incantation"
+      },
+      "40001946": {
+        "name": "Lightning Fortification",
+        "category": "Incantation"
+      },
+      "40001950": {
+        "name": "Divine Fortification",
+        "category": "Incantation"
+      },
+      "4000195A": {
+        "name": "Lord's Divine Fortification",
+        "category": "Incantation"
+      },
+      "40001964": {
+        "name": "Night Maiden's Mist",
+        "category": "Sorcery"
+      },
+      "4000196E": {
+        "name": "Assassin's Approach",
+        "category": "Incantation"
+      },
+      "40001978": {
+        "name": "Shadow Bait",
+        "category": "Incantation"
+      },
+      "40001982": {
+        "name": "Darkness",
+        "category": "Incantation"
+      },
+      "400019C8": {
+        "name": "Golden Vow",
+        "category": "Incantation"
+      },
+      "40001A2C": {
+        "name": "Discus of Light",
+        "category": "Incantation"
+      },
+      "40001A2D": {
+        "name": "Triple Rings of Light",
+        "category": "Incantation"
+      },
+      "40001A36": {
+        "name": "Radagon's Rings of Light",
+        "category": "Incantation"
+      },
+      "40001A40": {
+        "name": "Elden Stars",
+        "category": "Incantation"
+      },
+      "40001A4A": {
+        "name": "Law of Regression",
+        "category": "Incantation"
+      },
+      "40001A54": {
+        "name": "Immutable Shield",
+        "category": "Incantation"
+      },
+      "40001A5E": {
+        "name": "Litany of Proper Death",
+        "category": "Incantation"
+      },
+      "40001A68": {
+        "name": "Law of Causality",
+        "category": "Incantation"
+      },
+      "40001A72": {
+        "name": "Order's Blade",
+        "category": "Incantation"
+      },
+      "40001A7C": {
+        "name": "Order Healing",
+        "category": "Incantation"
+      },
+      "40001A90": {
+        "name": "Bestial Sling",
+        "category": "Incantation"
+      },
+      "40001A9A": {
+        "name": "Stone of Gurranq",
+        "category": "Incantation"
+      },
+      "40001AA4": {
+        "name": "Beast Claw",
+        "category": "Incantation"
+      },
+      "40001AAE": {
+        "name": "Gurranq's Beast Claw",
+        "category": "Incantation"
+      },
+      "40001AB8": {
+        "name": "Bestial Vitality",
+        "category": "Incantation"
+      },
+      "40001AC2": {
+        "name": "Bestial Constitution",
+        "category": "Incantation"
+      },
+      "40001AF4": {
+        "name": "Lightning Spear",
+        "category": "Incantation"
+      },
+      "40001AFE": {
+        "name": "Ancient Dragons' Lightning Strike",
+        "category": "Incantation"
+      },
+      "40001B08": {
+        "name": "Lightning Strike",
+        "category": "Incantation"
+      },
+      "40001B09": {
+        "name": "Frozen Lightning Spear",
+        "category": "Incantation"
+      },
+      "40001B12": {
+        "name": "Honed Bolt",
+        "category": "Incantation"
+      },
+      "40001B1C": {
+        "name": "Ancient Dragons' Lightning Spear",
+        "category": "Incantation"
+      },
+      "40001B1D": {
+        "name": "Fortissax's Lightning Spear",
+        "category": "Incantation"
+      },
+      "40001B26": {
+        "name": "Lansseax's Glaive",
+        "category": "Incantation"
+      },
+      "40001B30": {
+        "name": "Electrify Armament",
+        "category": "Incantation"
+      },
+      "40001B3A": {
+        "name": "Vyke's Dragonbolt",
+        "category": "Incantation"
+      },
+      "40001B3B": {
+        "name": "Dragonbolt Blessing",
+        "category": "Incantation"
+      },
+      "40001B58": {
+        "name": "Dragonfire",
+        "category": "Incantation"
+      },
+      "40001B59": {
+        "name": "Agheel's Flame",
+        "category": "Incantation"
+      },
+      "40001B62": {
+        "name": "Magma Breath",
+        "category": "Incantation"
+      },
+      "40001B63": {
+        "name": "Theodorix's Magma",
+        "category": "Incantation"
+      },
+      "40001B6C": {
+        "name": "Dragonice",
+        "category": "Incantation"
+      },
+      "40001B6D": {
+        "name": "Borealis's Mist",
+        "category": "Incantation"
+      },
+      "40001B76": {
+        "name": "Rotten Breath",
+        "category": "Incantation"
+      },
+      "40001B77": {
+        "name": "Ekzykes's Decay",
+        "category": "Incantation"
+      },
+      "40001B80": {
+        "name": "Glintstone Breath",
+        "category": "Incantation"
+      },
+      "40001B81": {
+        "name": "Smarag's Glintstone Breath",
+        "category": "Incantation"
+      },
+      "40001B8A": {
+        "name": "Placidusax's Ruin",
+        "category": "Incantation"
+      },
+      "40001B94": {
+        "name": "Dragonclaw",
+        "category": "Incantation"
+      },
+      "40001BA8": {
+        "name": "Dragonmaw",
+        "category": "Incantation"
+      },
+      "40001BB2": {
+        "name": "Greyoll's Roar",
+        "category": "Incantation"
+      },
+      "40001C20": {
+        "name": "Pest Threads",
+        "category": "Incantation"
+      },
+      "40001C2A": {
+        "name": "Swarm of Flies",
+        "category": "Incantation"
+      },
+      "40001C34": {
+        "name": "Poison Mist",
+        "category": "Incantation"
+      },
+      "40001C3E": {
+        "name": "Poison Armament",
+        "category": "Incantation"
+      },
+      "40001C48": {
+        "name": "Scarlet Aeonia",
+        "category": "Incantation"
+      },
+      "40001C84": {
+        "name": "Inescapable Frenzy",
+        "category": "Incantation"
+      },
+      "40001C8E": {
+        "name": "The Flame of Frenzy",
+        "category": "Incantation"
+      },
+      "40001C8F": {
+        "name": "Unendurable Frenzy",
+        "category": "Incantation"
+      },
+      "40001C98": {
+        "name": "Frenzied Burst",
+        "category": "Incantation"
+      },
+      "40001CA2": {
+        "name": "Howl of Shabriri",
+        "category": "Incantation"
+      },
+      "40001D4C": {
+        "name": "Aspects of the Crucible: Tail",
+        "category": "Incantation"
+      },
+      "40001D56": {
+        "name": "Aspects of the Crucible: Horns",
+        "category": "Incantation"
+      },
+      "40001D60": {
+        "name": "Aspects of the Crucible: Breath",
+        "category": "Incantation"
+      },
+      "40001D6A": {
+        "name": "Black Blade",
+        "category": "Incantation"
+      },
+      "40001EDC": {
+        "name": "Fire's Deadly Sin",
+        "category": "Incantation"
+      },
+      "40001EDF": {
+        "name": "Golden Lightning Fortification",
+        "category": "Incantation"
+      }
+    },"spiritAshes": {
+      "40030D40": {
+        "name": "Black Knife Tiche"
+      },
+      "40031128": {
+        "name": "Banished Knight Oleg Ashes"
+      },
+      "40031510": {
+        "name": "Banished Knight Engvall Ashes"
+      },
+      "400318F8": {
+        "name": "Fanged Imp Ashes"
+      },
+      "40031CE0": {
+        "name": "Latenna the Albinauric"
+      },
+      "400320C8": {
+        "name": "Nomad Ashes"
+      },
+      "400324B0": {
+        "name": "Nightmaiden & Swordstress Puppets"
+      },
+      "40032898": {
+        "name": "Mimic Tear Ashes"
+      },
+      "40032C80": {
+        "name": "Crystalian Ashes"
+      },
+      "40033068": {
+        "name": "Ancestral Follower Ashes"
+      },
+      "40033450": {
+        "name": "Winged Misbegotten Ashes"
+      },
+      "40033838": {
+        "name": "Albinauric Ashes"
+      },
+      "40033C20": {
+        "name": "Skeletal Militiaman Ashes"
+      },
+      "40034008": {
+        "name": "Skeletal Bandit Ashes"
+      },
+      "400343F0": {
+        "name": "Oracle Envoy Ashes"
+      },
+      "400347D8": {
+        "name": "Putrid Corpse Ashes"
+      },
+      "40034BC0": {
+        "name": "Depraved Perfumer Carmaan Ashes"
+      },
+      "40034FA8": {
+        "name": "Perfumer Tricia"
+      },
+      "40035390": {
+        "name": "Glintstone Sorcerer Ashes"
+      },
+      "40035778": {
+        "name": "Twinsage Sorcerer Ashes"
+      },
+      "40035B60": {
+        "name": "Page Ashes"
+      },
+      "40035F48": {
+        "name": "Battlemage Hugues"
+      },
+      "40036330": {
+        "name": "Clayman Ashes"
+      },
+      "40036718": {
+        "name": "Cleanrot Knight Finlay Ashes"
+      },
+      "40036B00": {
+        "name": "Kindred of Rot Ashes"
+      },
+      "40036EE8": {
+        "name": "Marionette Soldier Ashes"
+      },
+      "400372D0": {
+        "name": "Avionette Soldier Ashes"
+      },
+      "400376B8": {
+        "name": "Fire Monk Ashes"
+      },
+      "40037AA0": {
+        "name": "Blackflame Monk Amon Ashes"
+      },
+      "40037E88": {
+        "name": "Man-Serpent Ashes"
+      },
+      "40038270": {
+        "name": "Azula Beastman Ashes"
+      },
+      "40038658": {
+        "name": "Kaiden Sellsword Ashes"
+      },
+      "40038A40": {
+        "name": "Lone Wolf Ashes"
+      },
+      "40038E28": {
+        "name": "Giant Rat Ashes"
+      },
+      "40039210": {
+        "name": "Demi-Human Ashes"
+      },
+      "400395F8": {
+        "name": "Rotten Stray Ashes"
+      },
+      "400399E0": {
+        "name": "Spirit Jellyfish Ashes"
+      },
+      "40039DC8": {
+        "name": "Warhawk Ashes"
+      },
+      "4003A1B0": {
+        "name": "Stormhawk Deenh"
+      },
+      "4003A598": {
+        "name": "Bloodhound Knight Floh"
+      },
+      "4003A980": {
+        "name": "Wandering Noble Ashes"
+      },
+      "4003AD68": {
+        "name": "Noble Sorcerer Ashes"
+      },
+      "4003B150": {
+        "name": "Vulgar Militia Ashes"
+      },
+      "4003B538": {
+        "name": "Mad Pumpkin Head Ashes"
+      },
+      "4003B920": {
+        "name": "Land Squirt Ashes"
+      },
+      "4003BD08": {
+        "name": "Miranda Sprout Ashes"
+      },
+      "4003C0F0": {
+        "name": "Soldjars of Fortune Ashes"
+      },
+      "4003C4D8": {
+        "name": "Omenkiller Rollo"
+      },
+      "4003C8C0": {
+        "name": "Greatshield Soldier Ashes"
+      },
+      "4003CCA8": {
+        "name": "Archer Ashes"
+      },
+      "4003D090": {
+        "name": "Godrick Soldier Ashes"
+      },
+      "4003D478": {
+        "name": "Raya Lucaria Soldier Ashes"
+      },
+      "4003D860": {
+        "name": "Leyndell Soldier Ashes"
+      },
+      "4003DC48": {
+        "name": "Radahn Soldier Ashes"
+      },
+      "4003E030": {
+        "name": "Mausoleum Soldier Ashes"
+      },
+      "4003E418": {
+        "name": "Haligtree Soldier Ashes"
+      },
+      "4003E800": {
+        "name": "Ancient Dragon Knight Kristoff Ashes"
+      },
+      "4003EBE8": {
+        "name": "Redmane Knight Ogha Ashes"
+      },
+      "4003EFD0": {
+        "name": "Lhutel the Headless"
+      },
+      "4003F3B8": {
+        "name": "Nepheli Loux Puppet"
+      },
+      "4003F7A0": {
+        "name": "Dung Eater Puppet"
+      },
+      "4003FB88": {
+        "name": "Finger Maiden Therolina Puppet"
+      },
+      "4003FF70": {
+        "name": "Dolores the Sleeping Arrow Puppet"
+      },
+      "40040358": {
+        "name": "Jarwight Puppet"
+      }
+    },"talisman": {
+      "200003E8": {
+        "name": "Crimson Amber Medallion"
+      },
+      "200003E9": {
+        "name": "Crimson Amber Medallion +1"
+      },
+      "200003EA": {
+        "name": "Crimson Amber Medallion +2"
+      },
+      "200003F2": {
+        "name": "Cerulean Amber Medallion"
+      },
+      "200003F3": {
+        "name": "Cerulean Amber Medallion +1"
+      },
+      "200003F4": {
+        "name": "Cerulean Amber Medallion +2"
+      },
+      "200003FC": {
+        "name": "Viridian Amber Medallion"
+      },
+      "200003FD": {
+        "name": "Viridian Amber Medallion +1"
+      },
+      "200003FE": {
+        "name": "Viridian Amber Medallion +2"
+      },
+      "20000406": {
+        "name": "Arsenal Charm"
+      },
+      "20000407": {
+        "name": "Arsenal Charm +1"
+      },
+      "20000408": {
+        "name": "Great-Jar's Arsenal"
+      },
+      "20000410": {
+        "name": "Erdtree's Favor"
+      },
+      "20000411": {
+        "name": "Erdtree's Favor +1"
+      },
+      "20000412": {
+        "name": "Erdtree's Favor +2"
+      },
+      "2000041A": {
+        "name": "Radagon's Scarseal"
+      },
+      "2000041B": {
+        "name": "Radagon's Soreseal"
+      },
+      "20000424": {
+        "name": "Starscourge Heirloom"
+      },
+      "2000042E": {
+        "name": "Prosthesis-Wearer Heirloom"
+      },
+      "20000438": {
+        "name": "Stargazer Heirloom"
+      },
+      "20000442": {
+        "name": "Two Fingers Heirloom"
+      },
+      "2000044C": {
+        "name": "Silver Scarab"
+      },
+      "20000456": {
+        "name": "Gold Scarab"
+      },
+      "20000474": {
+        "name": "Moon of Nokstella"
+      },
+      "2000047E": {
+        "name": "Green Turtle Talisman"
+      },
+      "20000488": {
+        "name": "Stalwart Horn Charm"
+      },
+      "20000489": {
+        "name": "Stalwart Horn Charm +1"
+      },
+      "20000492": {
+        "name": "Immunizing Horn Charm"
+      },
+      "20000493": {
+        "name": "Immunizing Horn Charm +1"
+      },
+      "2000049C": {
+        "name": "Clarifying Horn Charm"
+      },
+      "2000049D": {
+        "name": "Clarifying Horn Charm +1"
+      },
+      "200004A6": {
+        "name": "Prince of Death's Pustule"
+      },
+      "200004A7": {
+        "name": "Prince of Death's Cyst"
+      },
+      "200004B0": {
+        "name": "Mottled Necklace"
+      },
+      "200004B1": {
+        "name": "Mottled Necklace +1"
+      },
+      "200004BA": {
+        "name": "Bull-Goat's Talisman"
+      },
+      "200004C4": {
+        "name": "Marika's Scarseal"
+      },
+      "200004C5": {
+        "name": "Marika's Soreseal"
+      },
+      "200004CE": {
+        "name": "Warrior Jar Shard"
+      },
+      "200004CF": {
+        "name": "Shard of Alexander"
+      },
+      "200004E2": {
+        "name": "Millicent's Prosthesis"
+      },
+      "200007D0": {
+        "name": "Magic Scorpion Charm"
+      },
+      "200007DA": {
+        "name": "Lightning Scorpion Charm"
+      },
+      "200007E4": {
+        "name": "Fire Scorpion Charm"
+      },
+      "200007EE": {
+        "name": "Sacred Scorpion Charm"
+      },
+      "200007F8": {
+        "name": "Red-Feathered Branchsword"
+      },
+      "20000802": {
+        "name": "Ritual Sword Talisman"
+      },
+      "2000080C": {
+        "name": "Spear Talisman"
+      },
+      "20000816": {
+        "name": "Hammer Talisman"
+      },
+      "20000820": {
+        "name": "Winged Sword Insignia"
+      },
+      "20000821": {
+        "name": "Rotten Winged Sword Insignia"
+      },
+      "2000082A": {
+        "name": "Dagger Talisman"
+      },
+      "20000834": {
+        "name": "Arrow's Reach Talisman"
+      },
+      "2000083E": {
+        "name": "Blue Dancer Charm"
+      },
+      "20000848": {
+        "name": "Twinblade Talisman"
+      },
+      "20000852": {
+        "name": "Axe Talisman"
+      },
+      "2000085C": {
+        "name": "Lance Talisman"
+      },
+      "20000866": {
+        "name": "Arrow's Sting Talisman"
+      },
+      "20000870": {
+        "name": "Lord of Blood's Exultation"
+      },
+      "2000087A": {
+        "name": "Kindred of Rot's Exultation"
+      },
+      "20000884": {
+        "name": "Claw Talisman"
+      },
+      "2000088E": {
+        "name": "Roar Medallion"
+      },
+      "20000898": {
+        "name": "Curved Sword Talisman"
+      },
+      "200008A2": {
+        "name": "Companion Jar"
+      },
+      "200008AC": {
+        "name": "Perfumer's Talisman"
+      },
+      "20000BB8": {
+        "name": "Graven-School Talisman"
+      },
+      "20000BB9": {
+        "name": "Graven-Mass Talisman"
+      },
+      "20000BE0": {
+        "name": "Faithful's Canvas Talisman"
+      },
+      "20000BEA": {
+        "name": "Flock's Canvas Talisman"
+      },
+      "20000BF4": {
+        "name": "Old Lord's Talisman"
+      },
+      "20000BFE": {
+        "name": "Radagon Icon"
+      },
+      "20000C08": {
+        "name": "Primal Glintstone Blade"
+      },
+      "20000C12": {
+        "name": "Godfrey Icon"
+      },
+      "20000FA0": {
+        "name": "Dragoncrest Shield Talisman"
+      },
+      "20000FA1": {
+        "name": "Dragoncrest Shield Talisman +1"
+      },
+      "20000FA2": {
+        "name": "Dragoncrest Shield Talisman +2"
+      },
+      "20000FA3": {
+        "name": "Dragoncrest Greatshield Talisman"
+      },
+      "20000FAA": {
+        "name": "Spelldrake Talisman"
+      },
+      "20000FAB": {
+        "name": "Spelldrake Talisman +1"
+      },
+      "20000FAC": {
+        "name": "Spelldrake Talisman +2"
+      },
+      "20000FB4": {
+        "name": "Flamedrake Talisman"
+      },
+      "20000FB5": {
+        "name": "Flamedrake Talisman +1"
+      },
+      "20000FB6": {
+        "name": "Flamedrake Talisman +2"
+      },
+      "20000FBE": {
+        "name": "Boltdrake Talisman"
+      },
+      "20000FBF": {
+        "name": "Boltdrake Talisman +1"
+      },
+      "20000FC0": {
+        "name": "Boltdrake Talisman +2"
+      },
+      "20000FC8": {
+        "name": "Haligdrake Talisman"
+      },
+      "20000FC9": {
+        "name": "Haligdrake Talisman +1"
+      },
+      "20000FCA": {
+        "name": "Haligdrake Talisman +2"
+      },
+      "20000FD2": {
+        "name": "Pearldrake Talisman"
+      },
+      "20000FD3": {
+        "name": "Pearldrake Talisman +1"
+      },
+      "20000FD4": {
+        "name": "Pearldrake Talisman +2"
+      },
+      "20000FDC": {
+        "name": "Crucible Scale Talisman"
+      },
+      "20000FE6": {
+        "name": "Crucible Feather Talisman"
+      },
+      "20000FF0": {
+        "name": "Blue-Feathered Branchsword"
+      },
+      "20000FFA": {
+        "name": "Ritual Shield Talisman"
+      },
+      "20001004": {
+        "name": "Greatshield Talisman"
+      },
+      "2000100E": {
+        "name": "Crucible Knot Talisman"
+      },
+      "20001388": {
+        "name": "Crimson Seed Talisman"
+      },
+      "20001392": {
+        "name": "Cerulean Seed Talisman"
+      },
+      "2000139C": {
+        "name": "Blessed Dew Talisman"
+      },
+      "200013A6": {
+        "name": "Taker's Cameo"
+      },
+      "200013B0": {
+        "name": "Godskin Swaddling Cloth"
+      },
+      "200013BA": {
+        "name": "Assassin's Crimson Dagger"
+      },
+      "200013C4": {
+        "name": "Assassin's Cerulean Dagger"
+      },
+      "20001770": {
+        "name": "Crepus's Vial"
+      },
+      "2000177A": {
+        "name": "Concealing Veil"
+      },
+      "20001784": {
+        "name": "Carian Filigreed Crest"
+      },
+      "20001798": {
+        "name": "Longtail Cat Talisman"
+      },
+      "200017A2": {
+        "name": "Shabriri's Woe"
+      },
+      "200017AC": {
+        "name": "Daedicar's Woe"
+      },
+      "200017B6": {
+        "name": "Sacrificial Twig"
+      },
+      "200017C0": {
+        "name": "Furled Finger's Trick-Mirror"
+      },
+      "200017CA": {
+        "name": "Host's Trick-Mirror"
+      },
+      "200017DE": {
+        "name": "Ancestral Spirit's Horn"
+      }
+    }
 }
