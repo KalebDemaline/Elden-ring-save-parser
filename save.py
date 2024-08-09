@@ -95,7 +95,7 @@ def main():
     with open('/Users/kalebsmac/Downloads/ER0000.sl2', 'rb') as file:
         save_file = file.read()
 
-        if(isValidFile(save_file)):
+        if(not isValidFile(save_file)):
             print('Not valid file')
             return
 
