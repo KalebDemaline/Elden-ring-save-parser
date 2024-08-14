@@ -59,4 +59,4 @@ target/
 
 # Files saved
 SaveFiles/*
-!SaveFiles/
+!SaveFiles/.gitkeep
