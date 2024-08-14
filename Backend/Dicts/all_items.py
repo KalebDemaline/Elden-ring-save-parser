@@ -7,7 +7,7 @@ class item_properties:
 
 all_item_dict: Dict[str, Dict[str, item_properties]] = {
     "armament": {
-        "000F4240": {
+      "000F4240": {
         "name": "Dagger",
         "category": "Dagger"
       },
