@@ -1,5 +1,5 @@
-from Dicts.all_items import all_item_dict
-from Dicts.item_dict_temp import item_dict_template
+from Dicts.armament_data import armament_data_dict
+# from Dicts.armament_data import armament_data_dict
 
 pattern = bytes([0xB0, 0xAD, 0x01, 0x00, 0x01, 0xFF, 0xFF, 0xFF])
 pattern_dlc = bytes([0xB0, 0xAD, 0x01, 0x00, 0x01])
@@ -70,33 +70,40 @@ def getOwnedAndNot(file_read, selected_slot):
         id_list = split(inventory, 8 if isDlcFile else 16)
         id_list = [getIdReversed(raw_id).upper() for raw_id in id_list]
 
-        owned_items = item_dict_template
-
         for id in id_list:
-            if id in all_item_dict['armament']:
-                item = all_item_dict['armament'][id]
-                owned_items['armament'][item['category']].append(item['name'])
-                del all_item_dict['armament'][id]
-            elif id in all_item_dict['armor']:
-                item = all_item_dict['armor'][id]
-                owned_items['armor'][item['category']].append(item['name'])
-                del all_item_dict['armor'][id]
-            elif id in all_item_dict['ashesOfWar']:
-                item = all_item_dict['ashesOfWar'][id]
-                owned_items['ashesOfWar'][item['category']].append(item['name'])
-                del all_item_dict['ashesOfWar'][id]
-            elif id in all_item_dict['magic']:
-                item = all_item_dict['magic'][id]
-                owned_items['magic'][item['category']].append(item['name'])
-                del all_item_dict['magic'][id]
-            elif id in all_item_dict['spiritAshes']:
-                owned_items['spiritAshes'].append(all_item_dict['spiritAshes'][id]['name'])
-                del all_item_dict['spiritAshes'][id]
-            elif id in all_item_dict['talisman']:
-                owned_items['talisman'].append(all_item_dict['talisman'][id]['name'])
-                del all_item_dict['talisman'][id]
+            if id in armament_data_dict:
+                armament_data_dict[id]['owned'] = True
+                # item = armament_data_dict[id]
+                # armament_data = armament_data_dict[item['name']]
+                # items_dict['armament'][item['category']].append({
+                #     'name': armament_data['name'],
+                #     'id': armament_data['id'],
+                #     'weight': armament_data['weight'],
+                #     'rarity': armament_data['rarity'],
+                #     'owned': True
+                # })
+            # elif id in all_item_dict['armor']:
+            #     item = all_item_dict['armor'][id]
+            #     owned_items['armor'][item['category']].append(item['name'])
+            #     del all_item_dict['armor'][id]
+            # elif id in all_item_dict['ashesOfWar']:
+            #     item = all_item_dict['ashesOfWar'][id]
+            #     owned_items['ashesOfWar'][item['category']].append(item['name'])
+            #     del all_item_dict['ashesOfWar'][id]
+            # elif id in all_item_dict['magic']:
+            #     item = all_item_dict['magic'][id]
+            #     owned_items['magic'][item['category']].append(item['name'])
+            #     del all_item_dict['magic'][id]
+            # elif id in all_item_dict['spiritAshes']:
+            #     owned_items['spiritAshes'].append(all_item_dict['spiritAshes'][id]['name'])
+            #     del all_item_dict['spiritAshes'][id]
+            # elif id in all_item_dict['talisman']:
+            #     owned_items['talisman'].append(all_item_dict['talisman'][id]['name'])
+            #     del all_item_dict['talisman'][id]
 
-        return owned_items
+        print('Here')
+        return armament_data_dict
 
     except Exception as e:
+        print('Exception:', e)
         return ''
