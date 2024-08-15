@@ -60,3 +60,6 @@ target/
 # Files saved
 SaveFiles/*
 !SaveFiles/.gitkeep
+
+# Dicts
+Dicts/long.py

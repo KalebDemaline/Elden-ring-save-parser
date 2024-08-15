@@ -1,10 +1,11 @@
-armament_data_dict = {
+new_dict = {
 	"000F4240": {
 		"id": "1000000",
 		"name": "Dagger",
 		"rarity": "Common",
 		"category": "Dagger",
 		"weight": "1.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f699693fbl0i1otqw0glcy3u6fp0k.png",
 		"owned": False
 	},
 	"000F6950": {
@@ -13,6 +14,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Dagger",
 		"weight": "2.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69bb7d32l0i1ou85ft99zwecdel.png",
 		"owned": False
 	},
 	"000F9060": {
@@ -21,6 +23,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Dagger",
 		"weight": "1.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6959f1adl0i1ou9x8vs08p3u09g.png",
 		"owned": False
 	},
 	"000FB770": {
@@ -29,6 +32,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Dagger",
 		"weight": "2.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69aa066dl0i1ouek4e8nmlybotp.png",
 		"owned": False
 	},
 	"000FDE80": {
@@ -37,6 +41,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Dagger",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d42419l0i1oujp0m1csaaqdanf.png",
 		"owned": False
 	},
 	"00100590": {
@@ -45,6 +50,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Dagger",
 		"weight": "2.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f695c23a5l0i1ourjc45t3ot8y0r.png",
 		"owned": False
 	},
 	"00102CA0": {
@@ -53,6 +59,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Dagger",
 		"weight": "1.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69538376l0i1ouzstk2t2dod57i.png",
 		"owned": False
 	},
 	"001053B0": {
@@ -61,6 +68,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Dagger",
 		"weight": "1.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69756a35l0i1ov1vi3cb4201sxa.png",
 		"owned": False
 	},
 	"00107AC0": {
@@ -69,6 +77,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Dagger",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d58e08l0i1ovazqw2hxmxgdc.png",
 		"owned": False
 	},
 	"0010A1D0": {
@@ -77,6 +86,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Dagger",
 		"weight": "1.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6994d16cl0i1ovl2w2asf8hogd.png",
 		"owned": False
 	},
 	"0010C8E0": {
@@ -85,6 +95,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Dagger",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a01b63l0i1ovq80hzuqcz211pn.png",
 		"owned": False
 	},
 	"0010EFF0": {
@@ -93,6 +104,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Dagger",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6986cfc4l0i1ovvz1l7bcfxqjc9.png",
 		"owned": False
 	},
 	"00113E10": {
@@ -101,6 +113,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Dagger",
 		"weight": "2.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69dba532l0i1ow5zn175dgtjn5d.png",
 		"owned": False
 	},
 	"00116520": {
@@ -109,6 +122,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Dagger",
 		"weight": "2.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69568512l0i1owirx8rozwu94e.png",
 		"owned": False
 	},
 	"00118C30": {
@@ -117,6 +131,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Dagger",
 		"weight": "2.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69c27224l0i1owfsl4rcc4fgbpe.png",
 		"owned": False
 	},
 	"0011B340": {
@@ -133,6 +148,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Straight Sword",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a84ec9l0i1pl7rf93vq4jlbt8.png",
 		"owned": False
 	},
 	"001EAB90": {
@@ -141,6 +157,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Straight Sword",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f699b4949l0i1plb5z4sznm17g7p.png",
 		"owned": False
 	},
 	"001ED2A0": {
@@ -149,6 +166,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Straight Sword",
 		"weight": "4.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f696356b4l0i1pljd3dmbyei0rzd.png",
 		"owned": False
 	},
 	"001F20C0": {
@@ -157,6 +175,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Straight Sword",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69b31ef4l0i1plkiau08p955pt5.png",
 		"owned": False
 	},
 	"001F47D0": {
@@ -165,6 +184,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Straight Sword",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6953c2f2l0i1pltkmb7nxuvfxgo.png",
 		"owned": False
 	},
 	"001F6EE0": {
@@ -173,6 +193,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Straight Sword",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69523142l0i1pm7iurzr5rt7vpb.png",
 		"owned": False
 	},
 	"001F95F0": {
@@ -181,6 +202,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Straight Sword",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f697020ddl0i1pm0mkycj3pyzli7.png",
 		"owned": False
 	},
 	"001FBD00": {
@@ -189,6 +211,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Curved Sword",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69913ab4l0i1otlpefqm0g08exp.png",
 		"owned": False
 	},
 	"001FE410": {
@@ -205,6 +228,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Straight Sword",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d1c283l0i1pm7km9k4n9hesqp.png",
 		"owned": False
 	},
 	"0020A760": {
@@ -221,6 +245,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Straight Sword",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69b32328l0i1pmuqj0u81mxsett.png",
 		"owned": False
 	},
 	"002143A0": {
@@ -229,6 +254,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Straight Sword",
 		"weight": "4.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69b44345l0i1pmq6va882h9uvf.png",
 		"owned": False
 	},
 	"00216AB0": {
@@ -245,6 +271,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Straight Sword",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69aa244al0i1pmyf54x5qm8xb1r.png",
 		"owned": False
 	},
 	"0021B8D0": {
@@ -253,6 +280,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Straight Sword",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6997d3a3l0i1pn2970lts73cbnn.png",
 		"owned": False
 	},
 	"0021DFE0": {
@@ -269,6 +297,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Straight Sword",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6976fa7el0i1pnla0wdjcpf4iqvm.png",
 		"owned": False
 	},
 	"00222E00": {
@@ -277,6 +306,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Straight Sword",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69b005b3l0i1pnmcmlgow749t19.png",
 		"owned": False
 	},
 	"00225510": {
@@ -285,6 +315,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Straight Sword",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f697a64ccl0i1pnuagdt1sfmx0pk.png",
 		"owned": False
 	},
 	"00227C20": {
@@ -293,6 +324,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Straight Sword",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d445cel0i1pnsmtteechmemmd.png",
 		"owned": False
 	},
 	"002DC6C0": {
@@ -301,6 +333,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greatsword",
 		"weight": "9.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a8d915l0i1p4kqv889wy4d4vc.png",
 		"owned": False
 	},
 	"002DEDD0": {
@@ -309,6 +342,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greatsword",
 		"weight": "9.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6995269el0i1p4oqujogklpkccd.png",
 		"owned": False
 	},
 	"002E14E0": {
@@ -317,6 +351,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greatsword",
 		"weight": "12.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f698d80fal0i1p4tl3fnkays6xcs.png",
 		"owned": False
 	},
 	"002E3BF0": {
@@ -325,6 +360,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greatsword",
 		"weight": "9.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69c84a0fl0i1p53njeg78jpm83g.png",
 		"owned": False
 	},
 	"002E6300": {
@@ -333,6 +369,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greatsword",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f696c3869l0i1p57ui4dkke1j2lb.png",
 		"owned": False
 	},
 	"002E8A10": {
@@ -341,6 +378,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greatsword",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69958ad2l0i1p5cvrojl4ty52zs.png",
 		"owned": False
 	},
 	"002EB120": {
@@ -349,6 +387,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Greatsword",
 		"weight": "12.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69914456l0i1p5gc8d6bi642ubp.png",
 		"owned": False
 	},
 	"002ED830": {
@@ -357,6 +396,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Greatsword",
 		"weight": "8.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a3766al0i1p5jn27ea0xazje3.png",
 		"owned": False
 	},
 	"002EFF40": {
@@ -365,6 +405,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greatsword",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6961c7efl0i1p5tbamvedpnmzx4.png",
 		"owned": False
 	},
 	"002F2650": {
@@ -373,6 +414,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Greatsword",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69aa76b3l0i1p5w4xa7tbhq0qit.png",
 		"owned": False
 	},
 	"002F4D60": {
@@ -381,6 +423,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Greatsword",
 		"weight": "11.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6971ad09l0i1p698i6hg5fqq3ir.png",
 		"owned": False
 	},
 	"002FC290": {
@@ -389,6 +432,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Greatsword",
 		"weight": "11.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a34499l0i1p69mtmqzfrxa7b.png",
 		"owned": False
 	},
 	"002FE9A0": {
@@ -397,6 +441,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Greatsword",
 		"weight": "13.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a18c12l0i1p6irjv6m8ue2f5.png",
 		"owned": False
 	},
 	"003010B0": {
@@ -405,6 +450,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Greatsword",
 		"weight": "11.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69af1239l0i1p6tbsakd85i69of.png",
 		"owned": False
 	},
 	"003037C0": {
@@ -421,6 +467,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Greatsword",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69c19b1al0i1p77ig6czaoxosd.png",
 		"owned": False
 	},
 	"003085E0": {
@@ -429,6 +476,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greatsword",
 		"weight": "9.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d938dal0i1p7cva71qgpwuo6w.png",
 		"owned": False
 	},
 	"0030ACF0": {
@@ -437,6 +485,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greatsword",
 		"weight": "11.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d64ed7l0i1p7jmmtge0ag3i4.png",
 		"owned": False
 	},
 	"0030D400": {
@@ -445,6 +494,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Greatsword",
 		"weight": "8.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d8a812l0i1p7s9xmq3zqql69.png",
 		"owned": False
 	},
 	"0030FB10": {
@@ -453,6 +503,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Greatsword",
 		"weight": "11.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d4d41el0i1p7vs0vjortsg7oc.png",
 		"owned": False
 	},
 	"003D0900": {
@@ -461,6 +512,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Colossal Sword",
 		"weight": "23.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6974feb9l0i1olnp61dvex8ugut.png",
 		"owned": False
 	},
 	"003D3010": {
@@ -469,6 +521,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Colossal Sword",
 		"weight": "22.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69c91071l0i1olmq0iokptn3hftg.png",
 		"owned": False
 	},
 	"003D5720": {
@@ -477,6 +530,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Colossal Sword",
 		"weight": "22.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6946481al0i1olr8v9h8hxdx439.png",
 		"owned": False
 	},
 	"003D7E30": {
@@ -485,6 +539,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Colossal Sword",
 		"weight": "19.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d62fd0l0i1olqu110xlsqhiuo.png",
 		"owned": False
 	},
 	"003DA540": {
@@ -493,6 +548,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Colossal Sword",
 		"weight": "15.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69848f3fl0i1olspoavxf69m81b.png",
 		"owned": False
 	},
 	"003DCC50": {
@@ -501,6 +557,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Colossal Sword",
 		"weight": "20.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d917e2l0i1omllp8sfqfor6g.png",
 		"owned": False
 	},
 	"003DF360": {
@@ -509,6 +566,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Colossal Sword",
 		"weight": "20.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f695e24bel0i1omb3kpapbx2zhn.png",
 		"owned": False
 	},
 	"003E1A70": {
@@ -517,6 +575,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Colossal Sword",
 		"weight": "17.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69814033l0i1omfg9fbsxwonld.png",
 		"owned": False
 	},
 	"003E4180": {
@@ -525,6 +584,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Colossal Sword",
 		"weight": "23.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69695544l0i1omj4kim8sh6j5xh.png",
 		"owned": False
 	},
 	"003E8FA0": {
@@ -533,6 +593,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Colossal Sword",
 		"weight": "21.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69ba4b74l0i1omi90yu0wdq7oxu.png",
 		"owned": False
 	},
 	"003EB6B0": {
@@ -541,6 +602,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Colossal Sword",
 		"weight": "18.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f694bf77bl0i1on5kwkodf1d6fkp.png",
 		"owned": False
 	},
 	"004C4B40": {
@@ -549,6 +611,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Thrusting Sword",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69747395l0i1po2ze4jsp35ms3t.png",
 		"owned": False
 	},
 	"004C7250": {
@@ -557,6 +620,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Thrusting Sword",
 		"weight": "4.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6990b8f9l0i1poeub82lv32r18o.png",
 		"owned": False
 	},
 	"004C9960": {
@@ -565,6 +629,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Thrusting Sword",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69c6c09el0i1poegki2ecno2vw.png",
 		"owned": False
 	},
 	"004CC070": {
@@ -573,6 +638,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Thrusting Sword",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d58854l0i1pom1ferfthsgsd.png",
 		"owned": False
 	},
 	"004CE780": {
@@ -581,6 +647,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Thrusting Sword",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f697b4c08l0i1pomqr1pxcel70uf.png",
 		"owned": False
 	},
 	"004D0E90": {
@@ -589,6 +656,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Thrusting Sword",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a8a231l0i1potleffsoj8ycfb.png",
 		"owned": False
 	},
 	"004D35A0": {
@@ -597,6 +665,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Thrusting Sword",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6999d8b5l0i1pp5phyiipgx4eoi.png",
 		"owned": False
 	},
 	"005B8D80": {
@@ -605,6 +674,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Heavy Thrusting Sword",
 		"weight": "8.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69987c03l0i1pdyutp139wmu1sh.png",
 		"owned": False
 	},
 	"005BB490": {
@@ -613,6 +683,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Heavy Thrusting Sword",
 		"weight": "7.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6969f10el0i1pecne5vzed6lx56.png",
 		"owned": False
 	},
 	"005BDBA0": {
@@ -621,6 +692,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Heavy Thrusting Sword",
 		"weight": "6.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f696cbcb2l0i1pe89fm2alskh2df.png",
 		"owned": False
 	},
 	"005C29C0": {
@@ -629,6 +701,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Heavy Thrusting Sword",
 		"weight": "8.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f699a14b1l0i1pekzisiwkpul53i.png",
 		"owned": False
 	},
 	"006ACFC0": {
@@ -637,6 +710,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Curved Sword",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69ccaa4al0i1orhsuhv0ll0uko.png",
 		"owned": False
 	},
 	"006AF6D0": {
@@ -645,6 +719,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Curved Sword",
 		"weight": "4.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d22df5l0i1os1vzj7jka683f.png",
 		"owned": False
 	},
 	"006B1DE0": {
@@ -653,6 +728,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Curved Sword",
 		"weight": "2.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69498ae3l0i1os4m19u5e478yu2.png",
 		"owned": False
 	},
 	"006B44F0": {
@@ -661,6 +737,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Curved Sword",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69cbbed5l0i1orz2seh3xldf6b.png",
 		"owned": False
 	},
 	"006B6C00": {
@@ -677,6 +754,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Curved Sword",
 		"weight": "4.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69908917l0i1os577fp2a0c8n8w.png",
 		"owned": False
 	},
 	"006BBA20": {
@@ -685,6 +763,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Curved Sword",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f694e2077l0i1osqjan4fnttniyc.png",
 		"owned": False
 	},
 	"006BE130": {
@@ -701,6 +780,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Curved Sword",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d7cf23l0i1osx8dg6r5dybhck.png",
 		"owned": False
 	},
 	"006C5660": {
@@ -709,6 +789,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Curved Sword",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f695e8a95l0i1osvuh2s392bslgf.png",
 		"owned": False
 	},
 	"006C7D70": {
@@ -725,6 +806,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Curved Sword",
 		"weight": "4.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a28357l0i1otefec4u3qjtjve.png",
 		"owned": False
 	},
 	"006CF2A0": {
@@ -733,6 +815,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Curved Sword",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f695c221bl0i1oti2aqelikacuj6.png",
 		"owned": False
 	},
 	"006D19B0": {
@@ -741,6 +824,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Curved Sword",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69ba85cal0i1ou17700c5cqef3i.png",
 		"owned": False
 	},
 	"007A3910": {
@@ -749,6 +833,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Curved Greatsword",
 		"weight": "11.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d4ff4fl0i1oq3u3wuk37p9n8y.png",
 		"owned": False
 	},
 	"007A6020": {
@@ -757,6 +842,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Curved Greatsword",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69c95aedl0i1oqkej3b4sanu0ho.png",
 		"owned": False
 	},
 	"007A8730": {
@@ -765,6 +851,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Curved Greatsword",
 		"weight": "11.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f697d9a68l0i1oqeay5e8bb4oc3g.png",
 		"owned": False
 	},
 	"007AAE40": {
@@ -773,6 +860,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Curved Greatsword",
 		"weight": "15.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6959a5afl0i1oqpihevj06l1n6f.png",
 		"owned": False
 	},
 	"007AD550": {
@@ -781,6 +869,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Curved Greatsword",
 		"weight": "9.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6951db06l0i1or16gi01imzlv6v.png",
 		"owned": False
 	},
 	"007AFC60": {
@@ -789,6 +878,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Curved Greatsword",
 		"weight": "11.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f699cd816l0i1oqxnpfv24k6jntj.png",
 		"owned": False
 	},
 	"007B2370": {
@@ -797,6 +887,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Curved Greatsword",
 		"weight": "9.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d7bd32l0i1or3zgprsj3kycze.png",
 		"owned": False
 	},
 	"007B4A80": {
@@ -805,6 +896,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Curved Greatsword",
 		"weight": "16.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f695a31bbl0i1orafp8agcajnhoq.png",
 		"owned": False
 	},
 	"007B98A0": {
@@ -813,6 +905,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Curved Greatsword",
 		"weight": "7.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f695e77b1l0i1orcoyco0l9fpi6j.png",
 		"owned": False
 	},
 	"00895440": {
@@ -821,6 +914,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Katana",
 		"weight": "5.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69cd8a23l0i1peugvwepjdkaqh.png",
 		"owned": False
 	},
 	"00897B50": {
@@ -829,6 +923,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Katana",
 		"weight": "7.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69728e6al0i1peyh4scwxfhl357.png",
 		"owned": False
 	},
 	"0089A260": {
@@ -845,6 +940,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Katana",
 		"weight": "7.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69513a8al0i1pf3ozolljjevfk.png",
 		"owned": False
 	},
 	"0089F080": {
@@ -861,6 +957,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Katana",
 		"weight": "6.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a10accl0i1pfj7uwvc9kzei7d.png",
 		"owned": False
 	},
 	"008A65B0": {
@@ -869,6 +966,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Katana",
 		"weight": "5.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69c558e4l0i1pfn93tt9wcpo0di.png",
 		"owned": False
 	},
 	"008A8CC0": {
@@ -877,6 +975,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Katana",
 		"weight": "6.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d611efl0i1pfqtebu0oq2b2w4.png",
 		"owned": False
 	},
 	"00989680": {
@@ -885,6 +984,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Twinblade",
 		"weight": "7.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69afb6c2l0i1ps6dducecpwa4m.png",
 		"owned": False
 	},
 	"0098BD90": {
@@ -893,6 +993,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Twinblade",
 		"weight": "8.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69528e34l0i1pq5pn4dg3bbkmj.png",
 		"owned": False
 	},
 	"00990BB0": {
@@ -901,6 +1002,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Twinblade",
 		"weight": "8.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a2b9c8l0i1pqbpbbyiylafnx.png",
 		"owned": False
 	},
 	"009959D0": {
@@ -909,6 +1011,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Twinblade",
 		"weight": "6.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d7ad55l0i1pqhdj20wzeg63ts.png",
 		"owned": False
 	},
 	"0099CF00": {
@@ -917,6 +1020,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Twinblade",
 		"weight": "8.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f695e037bl0i1pqkyetqd7zbu8l.png",
 		"owned": False
 	},
 	"0099F610": {
@@ -925,6 +1029,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Twinblade",
 		"weight": "8.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a3190el0i1pqs4x6j5c6xpye.png",
 		"owned": False
 	},
 	"00A7D8C0": {
@@ -933,6 +1038,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Hammer",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a7bbbcl0i1pbo28bmzr0t6jyp.png",
 		"owned": False
 	},
 	"00A7FFD0": {
@@ -941,6 +1047,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Hammer",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f694bb057l0i1pc726b2jy8z22n.png",
 		"owned": False
 	},
 	"00A84DF0": {
@@ -949,6 +1056,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Hammer",
 		"weight": "5.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f696774f3l0i1pbvceygv4mkw0d7.png",
 		"owned": False
 	},
 	"00A87500": {
@@ -957,6 +1065,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Hammer",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f694ca651l0i1pbx2gimykg3587g.png",
 		"owned": False
 	},
 	"00A89C10": {
@@ -965,6 +1074,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Hammer",
 		"weight": "5.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d6e6e0l0i1pctcpzxxaoxt1wc.png",
 		"owned": False
 	},
 	"00A8C320": {
@@ -973,6 +1083,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Hammer",
 		"weight": "2.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69aced5el0i1pcsbypcz3lxclfq.png",
 		"owned": False
 	},
 	"00A8EA30": {
@@ -981,6 +1092,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Hammer",
 		"weight": "5.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f699d1084l0i1pcmssd76cdlcjqk.png",
 		"owned": False
 	},
 	"00A91140": {
@@ -989,6 +1101,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Hammer",
 		"weight": "6.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a22461l0i1pcneoqys4gxbav.png",
 		"owned": False
 	},
 	"00A93850": {
@@ -997,6 +1110,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Hammer",
 		"weight": "6.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69b676c4l0i1pcy677icvt5r8m9.png",
 		"owned": False
 	},
 	"00A95F60": {
@@ -1005,6 +1119,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Hammer",
 		"weight": "4.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f695571bbl0i1pdcktfpfya20p2.png",
 		"owned": False
 	},
 	"00A98670": {
@@ -1021,6 +1136,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Hammer",
 		"weight": "6.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69b63034l0i1pdhypowirop759.png",
 		"owned": False
 	},
 	"00A9D490": {
@@ -1029,6 +1145,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Hammer",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69b7f413l0i1pdlfnyqleuyg0fm.png",
 		"owned": False
 	},
 	"00A9FBA0": {
@@ -1037,6 +1154,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Hammer",
 		"weight": "7.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6984dcccl0i1pdm4f6od648mce.png",
 		"owned": False
 	},
 	"00AA22B0": {
@@ -1045,6 +1163,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Hammer",
 		"weight": "6.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6976dccbl0i1pdxa3y1gcjkryhw.png",
 		"owned": False
 	},
 	"00B71B00": {
@@ -1053,6 +1172,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Great Hammer",
 		"weight": "8.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f698bc778l0i1pqyr7r7agoq3o5d.png",
 		"owned": False
 	},
 	"00B74210": {
@@ -1061,6 +1181,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Great Hammer",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f696c1ee3l0i1pr4ayhpbcwld3pn.png",
 		"owned": False
 	},
 	"00B76920": {
@@ -1069,6 +1190,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Great Hammer",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69b42027l0i1prapddaur3pdili.png",
 		"owned": False
 	},
 	"00B80560": {
@@ -1077,6 +1199,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Great Hammer",
 		"weight": "11.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a1045al0i1prfggf7geafalun.png",
 		"owned": False
 	},
 	"00B85380": {
@@ -1085,6 +1208,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Great Hammer",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69aaf476l0i1prkfafl8jets7wh.png",
 		"owned": False
 	},
 	"00B916D0": {
@@ -1093,6 +1217,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Great Hammer",
 		"weight": "8.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69ace310l0i1proreclwz3grgz.png",
 		"owned": False
 	},
 	"00B93DE0": {
@@ -1101,6 +1226,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Great Hammer",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69aa2722l0i1ps9o8lwz4rprn29.png",
 		"owned": False
 	},
 	"00B964F0": {
@@ -1109,6 +1235,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Great Hammer",
 		"weight": "9.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69aff56dl0i1przmnvkw34pmvm.png",
 		"owned": False
 	},
 	"00B98C00": {
@@ -1117,6 +1244,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Great Hammer",
 		"weight": "9.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69c5e336l0i1ps8m2w27as1vumo.png",
 		"owned": False
 	},
 	"00B9B310": {
@@ -1125,6 +1253,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Great Hammer",
 		"weight": "12.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69657dc0l0i1psc1sw2ehitb9m.png",
 		"owned": False
 	},
 	"00B9DA20": {
@@ -1133,6 +1262,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Great Hammer",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69dc134al0i1psnm7v5asqrwh7g.png",
 		"owned": False
 	},
 	"00BA0130": {
@@ -1141,6 +1271,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Great Hammer",
 		"weight": "12.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69c5bf40l0i1pszirywq0wqy1l.png",
 		"owned": False
 	},
 	"00BA2840": {
@@ -1149,6 +1280,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Great Hammer",
 		"weight": "11.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69b4d221l0i1psy7bxk9acqs5xv.png",
 		"owned": False
 	},
 	"00BA4F50": {
@@ -1157,6 +1289,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Great Hammer",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f699989edl0i1pt44dx2gkj49me6.png",
 		"owned": False
 	},
 	"00C65D40": {
@@ -1165,6 +1298,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Flail",
 		"weight": "6.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d96e43l0i1oy4z04zq0mvzanru.png",
 		"owned": False
 	},
 	"00C68450": {
@@ -1173,6 +1307,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Flail",
 		"weight": "5.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69552774l0i1oyd6lwf3vlq0nhn.png",
 		"owned": False
 	},
 	"00C6AB60": {
@@ -1181,6 +1316,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Flail",
 		"weight": "5.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f695341ecl0i1oyf1mscsd2tuuid.png",
 		"owned": False
 	},
 	"00C6D270": {
@@ -1189,6 +1325,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Flail",
 		"weight": "5.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6992e218l0i1oykgr0udpp09p3.png",
 		"owned": False
 	},
 	"00C6F980": {
@@ -1197,6 +1334,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Flail",
 		"weight": "8.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69c119f0l0i1oz3m7cwvc1jqa6w.png",
 		"owned": False
 	},
 	"00D59F80": {
@@ -1205,6 +1343,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Axe",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f699dbb9dl0i1ohfs2g1wqxwja74.png",
 		"owned": False
 	},
 	"00D5C690": {
@@ -1213,6 +1352,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Axe",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f695c42f0l0i1ohb4cao0qxackpu.png",
 		"owned": False
 	},
 	"00D5EDA0": {
@@ -1221,6 +1361,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Axe",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69c35d2cl0i1oh7zuqfb3mdvsj.png",
 		"owned": False
 	},
 	"00D614B0": {
@@ -1229,6 +1370,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Axe",
 		"weight": "5.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69667224l0i1ohar280aeoxkl6z.png",
 		"owned": False
 	},
 	"00D63BC0": {
@@ -1237,6 +1379,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Axe",
 		"weight": "6.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69c6388cl0i1ohcb8denrbpuhqs.png",
 		"owned": False
 	},
 	"00D662D0": {
@@ -1245,6 +1388,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Axe",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f694ef2f2l0i1ohsk3qoao9ds943.png",
 		"owned": False
 	},
 	"00D689E0": {
@@ -1253,6 +1397,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Axe",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6980f4d4l0i1oi72p2skbsycy5.png",
 		"owned": False
 	},
 	"00D6D800": {
@@ -1261,6 +1406,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Axe",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f699235c3l0i1ohvv1u6vgzp6gxv.png",
 		"owned": False
 	},
 	"00D72620": {
@@ -1269,6 +1415,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Axe",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69aeb629l0i1oifaza9fgo5b598.png",
 		"owned": False
 	},
 	"00D74D30": {
@@ -1277,6 +1424,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Axe",
 		"weight": "5.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69b32182l0i1oi3uyg5fkssmhje.png",
 		"owned": False
 	},
 	"00D77440": {
@@ -1285,6 +1433,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Axe",
 		"weight": "5.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6963aeael0i1oiez2moleac31tm.png",
 		"owned": False
 	},
 	"00D7C260": {
@@ -1293,6 +1442,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Axe",
 		"weight": "5.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69b8f9edl0i1oitj4z0mizqfmf7.png",
 		"owned": False
 	},
 	"00E4E1C0": {
@@ -1301,6 +1451,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greataxe",
 		"weight": "13.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69932567l0i1p1g57mgpbxaj4hw.png",
 		"owned": False
 	},
 	"00E508D0": {
@@ -1309,6 +1460,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Axe",
 		"weight": "7.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6959fcafl0i1oinkyocipl7tiwk.png",
 		"owned": False
 	},
 	"00E52FE0": {
@@ -1317,6 +1469,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greataxe",
 		"weight": "11.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69c517f3l0i1p1j5gib5p31b06c.png",
 		"owned": False
 	},
 	"00E556F0": {
@@ -1325,6 +1478,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greataxe",
 		"weight": "12.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6962ddb3l0i1p1wgacx8m0mpy3c.png",
 		"owned": False
 	},
 	"00E57E00": {
@@ -1341,6 +1495,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greataxe",
 		"weight": "12.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69822237l0i1p270w3dlqvx3kil.png",
 		"owned": False
 	},
 	"00E5CC20": {
@@ -1349,6 +1504,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greataxe",
 		"weight": "12.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f696240e3l0i1p2l8nsbm1tuf3kq.png",
 		"owned": False
 	},
 	"00E61A40": {
@@ -1357,6 +1513,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greataxe",
 		"weight": "15.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69bd922al0i1p2frazvyrv41tge.png",
 		"owned": False
 	},
 	"00E68F70": {
@@ -1365,6 +1522,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Greataxe",
 		"weight": "11.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f699a5bafl0i1p2louzpgjcml2zi.png",
 		"owned": False
 	},
 	"00E6B680": {
@@ -1373,6 +1531,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Greataxe",
 		"weight": "8.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f698a1aa2l0i1p2ttzr3kqvtkrqo.png",
 		"owned": False
 	},
 	"00E6DD90": {
@@ -1381,6 +1540,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greataxe",
 		"weight": "8.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69aff1efl0i1p2xlel2i8mhvc2o.png",
 		"owned": False
 	},
 	"00E704A0": {
@@ -1389,6 +1549,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greataxe",
 		"weight": "8.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f699ef109l0i1oj1cqtn6euxicod.png",
 		"owned": False
 	},
 	"00F42400": {
@@ -1397,6 +1558,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Spear",
 		"weight": "4.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69bba35dl0i1pilsvl3r9ub4cf9.png",
 		"owned": False
 	},
 	"00F44B10": {
@@ -1405,6 +1567,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Spear",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f697047a0l0i1pik0le4bp23xal.png",
 		"owned": False
 	},
 	"00F47220": {
@@ -1413,6 +1576,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Spear",
 		"weight": "5.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a617edl0i1piq3kor6g6xs3ql.png",
 		"owned": False
 	},
 	"00F49930": {
@@ -1421,6 +1585,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Spear",
 		"weight": "5.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69b1e4cfl0i1piuurxtzf8019c.png",
 		"owned": False
 	},
 	"00F4C040": {
@@ -1429,6 +1594,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Spear",
 		"weight": "5.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f698acb69l0i1pjffhe1kjzha5v.png",
 		"owned": False
 	},
 	"00F4E750": {
@@ -1437,6 +1603,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Spear",
 		"weight": "6.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f698971dfl0i1pja9443dg722bb3.png",
 		"owned": False
 	},
 	"00F50E60": {
@@ -1453,6 +1620,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Spear",
 		"weight": "7.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6975ef77l0i1pjgwds05239gwag.png",
 		"owned": False
 	},
 	"00F55C80": {
@@ -1461,6 +1629,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Spear",
 		"weight": "6.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d10518l0i1pjt3166nis69mk9.png",
 		"owned": False
 	},
 	"00F58390": {
@@ -1485,6 +1654,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Spear",
 		"weight": "6.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6963cc83l0i1pk36gu3e5f8fpxm.png",
 		"owned": False
 	},
 	"00F61FD0": {
@@ -1493,6 +1663,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Spear",
 		"weight": "7.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69ac78dcl0i1pke5of594dboffh.png",
 		"owned": False
 	},
 	"00F646E0": {
@@ -1501,6 +1672,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Spear",
 		"weight": "6.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6975dd97l0i1pkiw33ipbj1wu2d.png",
 		"owned": False
 	},
 	"00F66DF0": {
@@ -1509,6 +1681,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Spear",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f698a34afl0i1pku2sj7lswv0zy.png",
 		"owned": False
 	},
 	"00F69500": {
@@ -1517,6 +1690,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Spear",
 		"weight": "5.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69c12977l0i1pkr6s0g1o7v5kz.png",
 		"owned": False
 	},
 	"01038D50": {
@@ -1525,6 +1699,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Great Spear",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f696abc5el0i1p3mxdl2nf7g3wsu.png",
 		"owned": False
 	},
 	"0103B460": {
@@ -1533,6 +1708,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Great Spear",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6948ce42l0i1p3rnqwtrftgh5gg.png",
 		"owned": False
 	},
 	"0103DB70": {
@@ -1549,6 +1725,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Great Spear",
 		"weight": "8.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6949e9bbl0i1p3z882yhinlaqxj.png",
 		"owned": False
 	},
 	"010450A0": {
@@ -1557,6 +1734,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Great Spear",
 		"weight": "9.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6965c8c7l0i1p4ca48460ednlrf.png",
 		"owned": False
 	},
 	"010477B0": {
@@ -1565,6 +1743,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Great Spear",
 		"weight": "9.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6995c642l0i1p4de8g3enadtufs.png",
 		"owned": False
 	},
 	"0112A880": {
@@ -1573,6 +1752,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Halberd",
 		"weight": "8.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f696b2b4al0i1p8ly2eaf2vbepd6.png",
 		"owned": False
 	},
 	"0112CF90": {
@@ -1581,6 +1761,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Halberd",
 		"weight": "7.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6998e2a7l0i1p8fxd6bbyw83nts.png",
 		"owned": False
 	},
 	"0112F6A0": {
@@ -1589,6 +1770,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Halberd",
 		"weight": "7.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a4b70bl0i1p8n5ha1qpziq1xg.png",
 		"owned": False
 	},
 	"01131DB0": {
@@ -1597,6 +1779,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Halberd",
 		"weight": "8.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f698a6131l0i1p8u3hufx2lc7nr.png",
 		"owned": False
 	},
 	"011344C0": {
@@ -1605,6 +1788,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Halberd",
 		"weight": "11.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6991e5c5l0i1p8vp4fgo45r89ky.png",
 		"owned": False
 	},
 	"01136BD0": {
@@ -1613,6 +1797,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Halberd",
 		"weight": "12.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6962a77bl0i1p9nswfravtg3kil.png",
 		"owned": False
 	},
 	"011392E0": {
@@ -1621,6 +1806,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Halberd",
 		"weight": "8.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f694ee743l0i1p9ku7l29fh314nu.png",
 		"owned": False
 	},
 	"0113B9F0": {
@@ -1629,6 +1815,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Halberd",
 		"weight": "8.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6959d46el0i1p9thpf3fa8syut.png",
 		"owned": False
 	},
 	"0113E100": {
@@ -1637,6 +1824,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Halberd",
 		"weight": "13.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6973b001l0i1p9v6qffivf6eh3.png",
 		"owned": False
 	},
 	"01140810": {
@@ -1645,6 +1833,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Halberd",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69afd8dcl0i1p9y9s33uzxd9fek.png",
 		"owned": False
 	},
 	"01142F20": {
@@ -1653,6 +1842,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Halberd",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69869f89l0i1panhih63470rmve.png",
 		"owned": False
 	},
 	"01145630": {
@@ -1661,6 +1851,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Halberd",
 		"weight": "9.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6984431bl0i1papfl53ticoff4p.png",
 		"owned": False
 	},
 	"0114A450": {
@@ -1669,6 +1860,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Halberd",
 		"weight": "8.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69884882l0i1pawmnlwtwvbmm8.png",
 		"owned": False
 	},
 	"0114CB60": {
@@ -1677,6 +1869,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Halberd",
 		"weight": "10.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69c95d75l0i1paugymrcjquua4q.png",
 		"owned": False
 	},
 	"0114F270": {
@@ -1685,6 +1878,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Halberd",
 		"weight": "12.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69c725a8l0i1pay72k5pcw8pvc6.png",
 		"owned": False
 	},
 	"01151980": {
@@ -1693,6 +1887,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Halberd",
 		"weight": "12.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a5df3cl0i1pboo1un3fj711tg.png",
 		"owned": False
 	},
 	"0121EAC0": {
@@ -1701,6 +1896,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Reaper",
 		"weight": "7.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69502a09l0i1pgjcmg5igz1j0mr.png",
 		"owned": False
 	},
 	"012211D0": {
@@ -1709,6 +1905,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Reaper",
 		"weight": "9.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69920f78l0i1pgs2yaxn0jafxk.png",
 		"owned": False
 	},
 	"012238E0": {
@@ -1717,6 +1914,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Reaper",
 		"weight": "8.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f697b3423l0i1pgz84q3gg342rvu.png",
 		"owned": False
 	},
 	"0122D520": {
@@ -1725,6 +1923,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Reaper",
 		"weight": "7.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69abddefl0i1ph323xr196zcpc.png",
 		"owned": False
 	},
 	"01312D00": {
@@ -1733,6 +1932,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Whip",
 		"weight": "2.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d7e396l0i1pt3tuf213zcu8u.png",
 		"owned": False
 	},
 	"01317B20": {
@@ -1741,6 +1941,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Whip",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69571714l0i1ptc8s1fsagr8zf.png",
 		"owned": False
 	},
 	"0131A230": {
@@ -1749,6 +1950,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Whip",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69c5c0bfl0i1ptlhsrovoc8dx07.png",
 		"owned": False
 	},
 	"0131F050": {
@@ -1757,6 +1959,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Whip",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f694eefe9l0i1pto8dn7ezy61a99.png",
 		"owned": False
 	},
 	"01321760": {
@@ -1765,6 +1968,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Whip",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f696af19bl0i1ptpv0fdawl72o4yq.png",
 		"owned": False
 	},
 	"01323E70": {
@@ -1773,6 +1977,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Whip",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69691044l0i1ptyliubsc1c29o9.png",
 		"owned": False
 	},
 	"01406F40": {
@@ -1781,6 +1986,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Fist",
 		"weight": "1.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6961de5dl0i1ox1mrfqv4sj0p5.png",
 		"owned": False
 	},
 	"01409650": {
@@ -1789,6 +1995,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Fist",
 		"weight": "2.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69822bd8l0i1owzfs8dkv6m0tk.png",
 		"owned": False
 	},
 	"014159A0": {
@@ -1797,6 +2004,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Fist",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69598b19l0i1ox85gn7f2sgqpad.png",
 		"owned": False
 	},
 	"014180B0": {
@@ -1805,6 +2013,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Fist",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69bdc512l0i1ox8z0tvmo6500lc.png",
 		"owned": False
 	},
 	"0141A7C0": {
@@ -1813,6 +2022,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Fist",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6958d2a1l0i1oxak1ho6m56edgwi.png",
 		"owned": False
 	},
 	"0141F5E0": {
@@ -1821,6 +2031,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Fist",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f699730a1l0i1oxo8gfllal3rur.png",
 		"owned": False
 	},
 	"01421CF0": {
@@ -1829,6 +2040,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Fist",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f695cc915l0i1oxrft0i2enqepoe.png",
 		"owned": False
 	},
 	"01424400": {
@@ -1837,6 +2049,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Fist",
 		"weight": "4.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69912ed2l0i1oxzumweqnzkb2tl.png",
 		"owned": False
 	},
 	"01426B10": {
@@ -1845,6 +2058,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Fist",
 		"weight": "0.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69de7e01l0i1oxypr2s4rzvhwnj.png",
 		"owned": False
 	},
 	"014FB180": {
@@ -1853,6 +2067,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Claw",
 		"weight": "2.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69bb71a6l0i1okvek92tqjqy5w.png",
 		"owned": False
 	},
 	"014FD890": {
@@ -1861,6 +2076,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Claw",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f695a80d4l0i1okukv5xwwhqcvn.png",
 		"owned": False
 	},
 	"014FFFA0": {
@@ -1869,6 +2085,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Claw",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69575d35l0i1oktqg9vbv6v8jk.png",
 		"owned": False
 	},
 	"015026B0": {
@@ -1877,6 +2094,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Claw",
 		"weight": "1.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f694a2cc3l0i1okx1gdd6e5ser2.png",
 		"owned": False
 	},
 	"015EF3C0": {
@@ -1885,6 +2103,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Colossal Weapon",
 		"weight": "23.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a7dcc1l0i1oniofe8yzb14ixf.png",
 		"owned": False
 	},
 	"015F1AD0": {
@@ -1893,6 +2112,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Colossal Weapon",
 		"weight": "19.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69573764l0i1ondtdlwail0224s.png",
 		"owned": False
 	},
 	"015F41E0": {
@@ -1901,6 +2121,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Colossal Weapon",
 		"weight": "17.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f697c039cl0i1onh4jupgan4exzn.png",
 		"owned": False
 	},
 	"015F68F0": {
@@ -1909,6 +2130,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Colossal Weapon",
 		"weight": "19.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69b35d86l0i1ongc5nz2ucwimp3.png",
 		"owned": False
 	},
 	"015F9000": {
@@ -1917,6 +2139,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Colossal Weapon",
 		"weight": "20.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a33564l0i1ons3nh18t7o8nt.png",
 		"owned": False
 	},
 	"015FB710": {
@@ -1933,6 +2156,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Colossal Weapon",
 		"weight": "16.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69469b4bl0i1oo41w96vla79ii.png",
 		"owned": False
 	},
 	"01600530": {
@@ -1949,6 +2173,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Colossal Weapon",
 		"weight": "21.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6955e72fl0i1oo4m9kmv2xl4xyk.png",
 		"owned": False
 	},
 	"01607A60": {
@@ -1957,6 +2182,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Colossal Weapon",
 		"weight": "19.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f696bf334l0i1oog74vy08h3bq4g.png",
 		"owned": False
 	},
 	"0160A170": {
@@ -1973,6 +2199,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Colossal Weapon",
 		"weight": "21.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69bd8124l0i1oouetnbxq1rzht.png",
 		"owned": False
 	},
 	"0160EF90": {
@@ -1981,6 +2208,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Colossal Weapon",
 		"weight": "16.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f699e1bc7l0i1oov82brr35n1ie4.png",
 		"owned": False
 	},
 	"016116A0": {
@@ -1989,6 +2217,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Colossal Weapon",
 		"weight": "18.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f695f2cdal0i1oozpti2yx0wz51.png",
 		"owned": False
 	},
 	"01613DB0": {
@@ -1997,6 +2226,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Colossal Weapon",
 		"weight": "20.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f698e7e0dl0i1op5tj0nigfcedar.png",
 		"owned": False
 	},
 	"016E3600": {
@@ -2005,6 +2235,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Torch",
 		"weight": "1.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a2e19cl0i1pp06n0kd7rxesjl.png",
 		"owned": False
 	},
 	"016E8420": {
@@ -2021,6 +2252,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Torch",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69762fd7l0i1ppfr1nudb4uz853.png",
 		"owned": False
 	},
 	"016EF950": {
@@ -2029,6 +2261,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Torch",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69ca18e3l0i1pplg1qd5hx85vfgj.png",
 		"owned": False
 	},
 	"016F2060": {
@@ -2045,6 +2278,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Torch",
 		"weight": "5.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69cf8934l0i1ppuzogdnseu6l7f.png",
 		"owned": False
 	},
 	"01C9C380": {
@@ -2605,6 +2839,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Glintstone Staff",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69930219l0i1oytgbre6o33dti.png",
 		"owned": False
 	},
 	"01F82680": {
@@ -2613,6 +2848,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Glintstone Staff",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f699946f4l0i1oz2nopkhsi7qz5p.png",
 		"owned": False
 	},
 	"01F84D90": {
@@ -2621,6 +2857,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Glintstone Staff",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d7a8dcl0i1oz4x85o3hhhl069.png",
 		"owned": False
 	},
 	"01F874A0": {
@@ -2637,6 +2874,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Glintstone Staff",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6953c900l0i1ozjupz92p99yzi.png",
 		"owned": False
 	},
 	"01F95F00": {
@@ -2645,6 +2883,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Glintstone Staff",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6960a2b7l0i1ozuak6b667gyiqq.png",
 		"owned": False
 	},
 	"01F98610": {
@@ -2653,6 +2892,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Glintstone Staff",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69b2786dl0i1ozt246l3i5ng1n3.png",
 		"owned": False
 	},
 	"01FA2250": {
@@ -2661,6 +2901,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Glintstone Staff",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69bfdbcdl0i1ozxotkx767c6z5e.png",
 		"owned": False
 	},
 	"01FA4960": {
@@ -2677,6 +2918,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Glintstone Staff",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d0ae08l0i1p06vghydco2o29u.png",
 		"owned": False
 	},
 	"01FA9780": {
@@ -2685,6 +2927,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Glintstone Staff",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69dea799l0i1p0jj1dc7gc9ooad.png",
 		"owned": False
 	},
 	"01FABE90": {
@@ -2693,6 +2936,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Glintstone Staff",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6967c49cl0i1p0mowlnjq4ufrl.png",
 		"owned": False
 	},
 	"01FB0CB0": {
@@ -2701,6 +2945,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Glintstone Staff",
 		"weight": "4.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f695d9e5dl0i1p0otrlfxvt1g9n9.png",
 		"owned": False
 	},
 	"01FB33C0": {
@@ -2709,6 +2954,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Glintstone Staff",
 		"weight": "4.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f695a0063l0i1p0qdogpnbjb7xnf.png",
 		"owned": False
 	},
 	"01FB5AD0": {
@@ -2717,6 +2963,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Glintstone Staff",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6995e6eel0i1p0ujryl4uvjkiji.png",
 		"owned": False
 	},
 	"01FB81E0": {
@@ -2733,6 +2980,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Glintstone Staff",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69594fd1l0i1p1ad5rxu1z3y9xt.png",
 		"owned": False
 	},
 	"01FBD000": {
@@ -2749,6 +2997,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Sacred Seal",
 		"weight": "1.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f699368ccl0i1ph45qf42ty540od.png",
 		"owned": False
 	},
 	"0206F390": {
@@ -2757,6 +3006,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Sacred Seal",
 		"weight": "1.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69bbd392l0i1ph9qxgols7hl7qc.png",
 		"owned": False
 	},
 	"02071AA0": {
@@ -2765,6 +3015,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Sacred Seal",
 		"weight": "1.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6995ccbfl0i1phh558cbgycwuo.png",
 		"owned": False
 	},
 	"020741B0": {
@@ -2781,6 +3032,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Sacred Seal",
 		"weight": "1.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f697c0b2dl0i1phqrezjlqqlunoa.png",
 		"owned": False
 	},
 	"0207B6E0": {
@@ -2789,6 +3041,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Sacred Seal",
 		"weight": "0.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d76aa8l0i1phsgjq5azzb5g1.png",
 		"owned": False
 	},
 	"0207DDF0": {
@@ -2797,6 +3050,8 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Sacred Seal",
 		"weight": "0.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69746125l0i1phti5gxbjc1nfhx.png",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f698bacafl0i1phz3om56qt5bqof.png",
 		"owned": False
 	},
 	"02080500": {
@@ -2805,6 +3060,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Sacred Seal",
 		"weight": "0.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f697307d1l0i1pi6qvgmp5wuhmk.png",
 		"owned": False
 	},
 	"02082C10": {
@@ -2813,6 +3069,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Sacred Seal",
 		"weight": "0.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69885c93l0i1pihpfc550piu1x.png",
 		"owned": False
 	},
 	"02625A00": {
@@ -2821,6 +3078,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Light Bow",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6994d14el0i1pfsvoe12uhfhqnc.png",
 		"owned": False
 	},
 	"02628110": {
@@ -2829,6 +3087,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Light Bow",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69b492f2l0i1pg02g5smf5kummp.png",
 		"owned": False
 	},
 	"0262A820": {
@@ -2837,6 +3096,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Light Bow",
 		"weight": "2.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6971cafal0i1pg8ls91ef3yrf8r.png",
 		"owned": False
 	},
 	"0262CF30": {
@@ -2845,6 +3105,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Light Bow",
 		"weight": "2.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69491311l0i1pgceffu5ll8sovn.png",
 		"owned": False
 	},
 	"02631D50": {
@@ -2853,6 +3114,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Light Bow",
 		"weight": "3.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6976f477l0i1pgfgwmdenvupj5.png",
 		"owned": False
 	},
 	"02719C40": {
@@ -2861,6 +3123,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Bow",
 		"weight": "4.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d12746l0i1ojbzxzgz6gfjsi.png",
 		"owned": False
 	},
 	"0271C350": {
@@ -2869,6 +3132,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Bow",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f695afa44l0i1ojioyvh48q16qul.png",
 		"owned": False
 	},
 	"0271EA60": {
@@ -2877,6 +3141,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Bow",
 		"weight": "4.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69dcccffl0i1ojske3hc4ernauj.png",
 		"owned": False
 	},
 	"02721170": {
@@ -2885,6 +3150,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Bow",
 		"weight": "4.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6968148cl0i1ojrunt1o8v6y34f.png",
 		"owned": False
 	},
 	"02723880": {
@@ -2893,6 +3159,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Bow",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f694c87afl0i1ojvhpi9w9ttf21.png",
 		"owned": False
 	},
 	"027286A0": {
@@ -2901,6 +3168,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Bow",
 		"weight": "5.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f694cf960l0i1ojybdeac0ffxf5.png",
 		"owned": False
 	},
 	"0272ADB0": {
@@ -2909,6 +3177,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Bow",
 		"weight": "4.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f694bf0a0l0i1okt1ao6xjlqrmq9.png",
 		"owned": False
 	},
 	"0280DE80": {
@@ -2917,6 +3186,7 @@ armament_data_dict = {
 		"rarity": "Legendary",
 		"category": "Greatbow",
 		"weight": "9.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f694ec20bl0i1p34h48fycewmkr1.png",
 		"owned": False
 	},
 	"02810590": {
@@ -2925,6 +3195,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greatbow",
 		"weight": "14.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69ba8511l0i1p3aular3j6um6ed.png",
 		"owned": False
 	},
 	"028153B0": {
@@ -2933,6 +3204,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Greatbow",
 		"weight": "11.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69727d35l0i1p3af7vawzb2qx4v.png",
 		"owned": False
 	},
 	"02817AC0": {
@@ -2941,6 +3213,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Greatbow",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f6967c4f3l0i1p3l1xull5qamw2.png",
 		"owned": False
 	},
 	"029020C0": {
@@ -2949,6 +3222,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Crossbow",
 		"weight": "3.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69a1d79cl0i1opcz0k9omitov0n.png",
 		"owned": False
 	},
 	"02906EE0": {
@@ -2957,6 +3231,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Crossbow",
 		"weight": "4.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69832d19l0i1opiocf2s1b0z8f8.png",
 		"owned": False
 	},
 	"029095F0": {
@@ -2965,6 +3240,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Crossbow",
 		"weight": "5.5",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69b95f86l0i1opjf3ra8xpdsovo.png",
 		"owned": False
 	},
 	"0290E410": {
@@ -2973,6 +3249,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Crossbow",
 		"weight": "4.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69744d27l0i1opnrem0400k2gsd.png",
 		"owned": False
 	},
 	"02910B20": {
@@ -2981,6 +3258,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Crossbow",
 		"weight": "4.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69ac9f84l0i1opqor2ybht92g9q.png",
 		"owned": False
 	},
 	"02915940": {
@@ -2989,6 +3267,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Crossbow",
 		"weight": "6.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69d24aefl0i1oq9249e558exazo.png",
 		"owned": False
 	},
 	"0291CE70": {
@@ -3005,6 +3284,7 @@ armament_data_dict = {
 		"rarity": "Common",
 		"category": "Ballista",
 		"weight": "10.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f698da62dl0i1oj2p6wyeh8vo0to.png",
 		"owned": False
 	},
 	"029F8A10": {
@@ -3013,6 +3293,7 @@ armament_data_dict = {
 		"rarity": "Rare",
 		"category": "Ballista",
 		"weight": "15.0",
+		"icon": "https://eldenring.fanapis.com/images/weapons/17f69dd8093l0i1oj6x6qo6tg76q8.png",
 		"owned": False
 	},
 }
