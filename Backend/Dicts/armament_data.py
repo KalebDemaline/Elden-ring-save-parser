@@ -1,4 +1,4 @@
-new_dict = {
+armament_data_dict = {
 	"000F4240": {
 		"id": "1000000",
 		"name": "Dagger",
