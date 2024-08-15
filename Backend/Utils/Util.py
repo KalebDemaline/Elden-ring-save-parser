@@ -101,7 +101,6 @@ def getOwnedAndNot(file_read, selected_slot):
             #     owned_items['talisman'].append(all_item_dict['talisman'][id]['name'])
             #     del all_item_dict['talisman'][id]
 
-        print('Here')
         return armament_data_dict
 
     except Exception as e:
