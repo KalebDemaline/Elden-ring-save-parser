@@ -1,5 +1,4 @@
 from Dicts.armament_data import armament_data_dict
-from Dicts.item_dict_temp import item_dict_template
 # from Dicts.armament_data import armament_data_dict
 
 pattern = bytes([0xB0, 0xAD, 0x01, 0x00, 0x01, 0xFF, 0xFF, 0xFF])
@@ -70,8 +69,6 @@ def getOwnedAndNot(file_read, selected_slot):
         inventory = list(getInventory(slots[selected_slot]))
         id_list = split(inventory, 8 if isDlcFile else 16)
         id_list = [getIdReversed(raw_id).upper() for raw_id in id_list]
-
-        items_dict = item_dict_template
 
         for id in id_list:
             if id in armament_data_dict:
