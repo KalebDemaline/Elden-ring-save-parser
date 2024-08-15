@@ -1,0 +1,18 @@
+<mat-toolbar>
+    <span class="w-75">Elden Ring Save Parser</span>
+    <mat-form-field class="w-25">
+        <mat-label>Select Character</mat-label>
+        <mat-select name="charNames" [disabled]="charNames.length < 1">
+            <mat-option *ngFor="let name of charNames" [value]="name">{{ name }}</mat-option>
+        </mat-select>
+    </mat-form-field>
+    <button mat-stroked-button class="w-25" (click)="fileInput.click()">Upload Save</button>
+    <input #fileInput type="file" style="display: none;" (change)="onFileSelected($event)">
+</mat-toolbar>
+<div *ngIf="loading" class="m-2">
+    <mat-progress-bar mode="buffer"></mat-progress-bar>
+</div>
+<div *ngIf="!loading" class="vh-100">
+    <h1 class="text-center">Elden Lord</h1>
+    <ag-grid-angular [rowData]="rowData" [columnDefs]="colDefs" class="ag-theme-quartz-dark h-50" />
+</div>
